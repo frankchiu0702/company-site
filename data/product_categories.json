@@ -3,8 +3,8 @@
         "key":  "saddles",
         "titleZh":  "SADDLES / 自行車座墊",
         "titleEn":  "SADDLES",
-        "descriptionZh":  "依 Alpha-one 型錄整理的自行車座墊。",
-        "descriptionEn":  "Bicycle saddles from the Alpha-one catalog.",
+        "descriptionZh":  "自行車座墊。",
+        "descriptionEn":  "Bicycle saddles.",
         "url":  "/products/saddles/",
         "cover":  "/images/products/bicycle-saddles/bicycle-saddles-001.jpg",
         "count":  6,
@@ -230,10 +230,10 @@
         "key":  "upper-tube-bag",
         "titleZh":  "UPPER TUBE BAG / 上管包",
         "titleEn":  "UPPER TUBE BAG",
-        "descriptionZh":  "依 Alpha-one 型錄整理的上管包。",
-        "descriptionEn":  "Upper tube bags from the Alpha-one catalog.",
+        "descriptionZh":  "上管包。",
+        "descriptionEn":  "Upper tube bags.",
         "url":  "/products/upper-tube-bag/",
-        "cover":  "/images/products/gallery/product-020.jpg",
+        "cover":  "/images/products/gallery/product-020-cutout.png",
         "count":  5,
         "grouped":  true,
         "groups":  [
@@ -420,10 +420,10 @@
         "key":  "saddle-bag",
         "titleZh":  "SADDLE BAG / 座墊包",
         "titleEn":  "SADDLE BAG",
-        "descriptionZh":  "依 Alpha-one 型錄整理的座墊包，並按型號分組。",
-        "descriptionEn":  "Saddle bags from the Alpha-one catalog, grouped by model.",
+        "descriptionZh":  "座墊包。",
+        "descriptionEn":  "Saddle bags.",
         "url":  "/products/saddle-bag/",
-        "cover":  "/images/products/gallery/product-009.jpg",
+        "cover":  "/images/products/gallery/product-009-cutout.png",
         "count":  15,
         "grouped":  true,
         "groups":  [
@@ -960,11 +960,11 @@
         "key":  "handle-bar-bag",
         "titleZh":  "HANDLE BAR BAG / 車把包",
         "titleEn":  "HANDLE BAR BAG",
-        "descriptionZh":  "依 Alpha-one 型錄整理的車把包。",
-        "descriptionEn":  "Handlebar bags from the Alpha-one catalog.",
+        "descriptionZh":  "車把包。",
+        "descriptionEn":  "Handlebar bags.",
         "url":  "/products/handle-bar-bag/",
-        "cover":  "/images/products/gallery/product-015.jpg",
-        "count":  14,
+        "cover":  "/images/products/gallery/product-015-cutout.png",
+        "count":  8,
         "grouped":  true,
         "groups":  [
                        {
@@ -1004,36 +1004,6 @@
                                                            "型號：BB-002"
                                                        ],
                                              "group":  "BB-002"
-                                         },
-                                         {
-                                             "src":  "/images/products/gallery/product-123.jpg",
-                                             "title":  "HANDLE BAR BAG - BB-002",
-                                             "original":  "alpha-one新照片\\BB-002-back.JPG",
-                                             "width":  925,
-                                             "height":  900,
-                                             "model":  "BB-002",
-                                             "productType":  "HANDLE BAR BAG",
-                                             "specs":  [
-                                                           "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：BB-002"
-                                                       ],
-                                             "group":  "BB-002"
-                                         },
-                                         {
-                                             "src":  "/images/products/gallery/product-124.jpg",
-                                             "title":  "HANDLE BAR BAG - BB-002H",
-                                             "original":  "alpha-one新照片\\BB-002honey.JPG",
-                                             "width":  994,
-                                             "height":  900,
-                                             "model":  "BB-002H",
-                                             "productType":  "HANDLE BAR BAG",
-                                             "specs":  [
-                                                           "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：BB-002H"
-                                                       ],
-                                             "group":  "BB-002"
                                          }
                                      ]
                        },
@@ -1046,21 +1016,6 @@
                                              "original":  "alpha-one pic 舊照片\\LB-001.JPG",
                                              "width":  1200,
                                              "height":  797,
-                                             "model":  "LB-001",
-                                             "productType":  "HANDLE BAR BAG",
-                                             "specs":  [
-                                                           "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：LB-001"
-                                                       ],
-                                             "group":  "LB-001"
-                                         },
-                                         {
-                                             "src":  "/images/products/gallery/product-106.jpg",
-                                             "title":  "HANDLE BAR BAG - LB-001",
-                                             "original":  "alpha-one pic 舊照片\\LB-001-new.jpg",
-                                             "width":  1200,
-                                             "height":  676,
                                              "model":  "LB-001",
                                              "productType":  "HANDLE BAR BAG",
                                              "specs":  [
@@ -1089,42 +1044,12 @@
                                                            "型號：LB-002"
                                                        ],
                                              "group":  "LB-002"
-                                         },
-                                         {
-                                             "src":  "/images/products/gallery/product-108.jpg",
-                                             "title":  "HANDLE BAR BAG - LB-002B",
-                                             "original":  "alpha-one pic 舊照片\\LB-002B.JPG",
-                                             "width":  1200,
-                                             "height":  797,
-                                             "model":  "LB-002B",
-                                             "productType":  "HANDLE BAR BAG",
-                                             "specs":  [
-                                                           "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：LB-002B"
-                                                       ],
-                                             "group":  "LB-002"
                                          }
                                      ]
                        },
                        {
                            "title":  "LB-12001",
                            "items":  [
-                                         {
-                                             "src":  "/images/products/gallery/product-015.jpg",
-                                             "title":  "HANDLE BAR BAG - LB-12001",
-                                             "original":  "2012 for new products\\上傳檔案for www\\LB-12001.JPG",
-                                             "width":  721,
-                                             "height":  480,
-                                             "model":  "LB-12001",
-                                             "productType":  "HANDLE BAR BAG",
-                                             "specs":  [
-                                                           "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：LB-12001"
-                                                       ],
-                                             "group":  "LB-12001"
-                                         },
                                          {
                                              "src":  "/images/products/gallery/product-049.jpg",
                                              "title":  "HANDLE BAR BAG - LB-12001",
@@ -1145,21 +1070,6 @@
                        {
                            "title":  "LB-13001",
                            "items":  [
-                                         {
-                                             "src":  "/images/products/gallery/product-025.jpg",
-                                             "title":  "HANDLE BAR BAG - LB-13001",
-                                             "original":  "2013\\LB-13001 S 背面.JPG",
-                                             "width":  1200,
-                                             "height":  735,
-                                             "model":  "LB-13001",
-                                             "productType":  "HANDLE BAR BAG",
-                                             "specs":  [
-                                                           "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：LB-13001"
-                                                       ],
-                                             "group":  "LB-13001"
-                                         },
                                          {
                                              "src":  "/images/products/gallery/product-026.jpg",
                                              "title":  "HANDLE BAR BAG - LB-13001L",
@@ -1219,36 +1129,6 @@
                        }
                    ],
         "items":  [
-                      {
-                          "src":  "/images/products/gallery/product-015.jpg",
-                          "title":  "HANDLE BAR BAG - LB-12001",
-                          "original":  "2012 for new products\\上傳檔案for www\\LB-12001.JPG",
-                          "width":  721,
-                          "height":  480,
-                          "model":  "LB-12001",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：LB-12001"
-                                    ],
-                          "group":  "LB-12001"
-                      },
-                      {
-                          "src":  "/images/products/gallery/product-025.jpg",
-                          "title":  "HANDLE BAR BAG - LB-13001",
-                          "original":  "2013\\LB-13001 S 背面.JPG",
-                          "width":  1200,
-                          "height":  735,
-                          "model":  "LB-13001",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：LB-13001"
-                                    ],
-                          "group":  "LB-13001"
-                      },
                       {
                           "src":  "/images/products/gallery/product-026.jpg",
                           "title":  "HANDLE BAR BAG - LB-13001L",
@@ -1355,21 +1235,6 @@
                           "group":  "LB-001"
                       },
                       {
-                          "src":  "/images/products/gallery/product-106.jpg",
-                          "title":  "HANDLE BAR BAG - LB-001",
-                          "original":  "alpha-one pic 舊照片\\LB-001-new.jpg",
-                          "width":  1200,
-                          "height":  676,
-                          "model":  "LB-001",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：LB-001"
-                                    ],
-                          "group":  "LB-001"
-                      },
-                      {
                           "src":  "/images/products/gallery/product-107.jpg",
                           "title":  "HANDLE BAR BAG - LB-002",
                           "original":  "alpha-one pic 舊照片\\LB-002.JPG",
@@ -1383,51 +1248,6 @@
                                         "型號：LB-002"
                                     ],
                           "group":  "LB-002"
-                      },
-                      {
-                          "src":  "/images/products/gallery/product-108.jpg",
-                          "title":  "HANDLE BAR BAG - LB-002B",
-                          "original":  "alpha-one pic 舊照片\\LB-002B.JPG",
-                          "width":  1200,
-                          "height":  797,
-                          "model":  "LB-002B",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：LB-002B"
-                                    ],
-                          "group":  "LB-002"
-                      },
-                      {
-                          "src":  "/images/products/gallery/product-123.jpg",
-                          "title":  "HANDLE BAR BAG - BB-002",
-                          "original":  "alpha-one新照片\\BB-002-back.JPG",
-                          "width":  925,
-                          "height":  900,
-                          "model":  "BB-002",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：BB-002"
-                                    ],
-                          "group":  "BB-002"
-                      },
-                      {
-                          "src":  "/images/products/gallery/product-124.jpg",
-                          "title":  "HANDLE BAR BAG - BB-002H",
-                          "original":  "alpha-one新照片\\BB-002honey.JPG",
-                          "width":  994,
-                          "height":  900,
-                          "model":  "BB-002H",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：BB-002H"
-                                    ],
-                          "group":  "BB-002"
                       }
                   ]
     },
@@ -1435,10 +1255,10 @@
         "key":  "grip-bar-tape",
         "titleZh":  "GRIP / BAR TAPE / 握把與纏帶",
         "titleEn":  "GRIP / BAR TAPE",
-        "descriptionZh":  "依 Alpha-one 型錄整理的握把、纏帶與端塞。",
-        "descriptionEn":  "Grips, bar tape, and plugs from the Alpha-one catalog.",
+        "descriptionZh":  "握把、纏帶與端塞。",
+        "descriptionEn":  "Grips, bar tape, and plugs.",
         "url":  "/products/grip-bar-tape/",
-        "cover":  "/images/products/leather-grips/leather-grips-001.jpg",
+        "cover":  "/images/products/gallery/product-109.jpg",
         "count":  23,
         "grouped":  true,
         "groups":  [
@@ -1482,30 +1302,30 @@
                            "items":  [
                                          {
                                              "src":  "/images/products/leather-grips/leather-grips-005.jpg",
-                                             "title":  "GRIP / BAR TAPE - BLT-001",
+                                             "title":  "TAPES - BLT-001",
                                              "original":  "alpha-one pic 舊照片\\BLT-001.jpg",
                                              "width":  1200,
                                              "height":  821,
                                              "model":  "BLT-001",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "TAPES",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：TAPES / 手把帶",
+                                                           "Catalog: TAPES",
                                                            "型號：BLT-001"
                                                        ],
                                              "group":  "BLT-001"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-104.jpg",
-                                             "title":  "GRIP / BAR TAPE - BLT-001",
+                                             "title":  "TAPES - BLT-001",
                                              "original":  "alpha-one pic 舊照片\\BLT-001.jpg",
                                              "width":  1200,
                                              "height":  821,
                                              "model":  "BLT-001",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "TAPES",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：TAPES / 手把帶",
+                                                           "Catalog: TAPES",
                                                            "型號：BLT-001"
                                                        ],
                                              "group":  "BLT-001"
@@ -1516,91 +1336,91 @@
                            "title":  "OG-001",
                            "items":  [
                                          {
-                                             "src":  "/images/products/leather-grips/leather-grips-001.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-001",
-                                             "original":  "2013-taipei\\JPE\\OG-001副本.jpg",
+                                             "src":  "/images/products/gallery/product-109.jpg",
+                                             "title":  "GRIP - OG-001",
+                                             "original":  "alpha-one pic 舊照片\\OG-001.jpg",
                                              "width":  1200,
-                                             "height":  860,
+                                             "height":  797,
                                              "model":  "OG-001",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-001"
                                                        ],
                                              "group":  "OG-001"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-054.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-001",
+                                             "title":  "GRIP - OG-001",
                                              "original":  "2013-taipei\\JPE\\OG-001副本.jpg",
                                              "width":  1200,
                                              "height":  860,
                                              "model":  "OG-001",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-001"
                                                        ],
                                              "group":  "OG-001"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-076.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-001",
+                                             "title":  "GRIP - OG-001",
                                              "original":  "2014\\OG-001 lined.JPG",
                                              "width":  1200,
                                              "height":  900,
                                              "model":  "OG-001",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-001"
                                                        ],
                                              "group":  "OG-001"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-109.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-001",
+                                             "title":  "GRIP - OG-001",
                                              "original":  "alpha-one pic 舊照片\\OG-001.jpg",
                                              "width":  1200,
                                              "height":  797,
                                              "model":  "OG-001",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-001"
                                                        ],
                                              "group":  "OG-001"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-110.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-001B",
+                                             "title":  "GRIP - OG-001B",
                                              "original":  "alpha-one pic 舊照片\\OG-001black.jpg",
                                              "width":  1200,
                                              "height":  797,
                                              "model":  "OG-001B",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-001B"
                                                        ],
                                              "group":  "OG-001"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-111.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-001H",
+                                             "title":  "GRIP - OG-001H",
                                              "original":  "alpha-one pic 舊照片\\OG-001honey.jpg",
                                              "width":  1200,
                                              "height":  797,
                                              "model":  "OG-001H",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-001H"
                                                        ],
                                              "group":  "OG-001"
@@ -1612,15 +1432,15 @@
                            "items":  [
                                          {
                                              "src":  "/images/products/gallery/product-125.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-002",
+                                             "title":  "GRIP - OG-002",
                                              "original":  "alpha-one新照片\\OG-002.JPG",
                                              "width":  1200,
                                              "height":  797,
                                              "model":  "OG-002",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-002"
                                                        ],
                                              "group":  "OG-002"
@@ -1632,15 +1452,15 @@
                            "items":  [
                                          {
                                              "src":  "/images/products/gallery/product-126.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-003",
+                                             "title":  "GRIP - OG-003",
                                              "original":  "alpha-one新照片\\OG-003.JPG",
                                              "width":  1200,
                                              "height":  671,
                                              "model":  "OG-003",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-003"
                                                        ],
                                              "group":  "OG-003"
@@ -1652,15 +1472,15 @@
                            "items":  [
                                          {
                                              "src":  "/images/products/gallery/product-127.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-004",
+                                             "title":  "GRIP - OG-004",
                                              "original":  "alpha-one新照片\\OG-004.JPG",
                                              "width":  1200,
                                              "height":  797,
                                              "model":  "OG-004",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-004"
                                                        ],
                                              "group":  "OG-004"
@@ -1672,60 +1492,60 @@
                            "items":  [
                                          {
                                              "src":  "/images/products/leather-grips/leather-grips-002.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-005",
+                                             "title":  "GRIP - OG-005",
                                              "original":  "alpha-one新照片\\OG-005.JPG",
                                              "width":  1200,
                                              "height":  797,
                                              "model":  "OG-005",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-005"
                                                        ],
                                              "group":  "OG-005"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-055.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-005",
+                                             "title":  "GRIP - OG-005",
                                              "original":  "2013-taipei\\JPE\\OG-005副本.jpg",
                                              "width":  1200,
                                              "height":  734,
                                              "model":  "OG-005",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-005"
                                                        ],
                                              "group":  "OG-005"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-077.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-005",
+                                             "title":  "GRIP - OG-005",
                                              "original":  "2014\\OG-005 lined.JPG",
                                              "width":  1200,
                                              "height":  900,
                                              "model":  "OG-005",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-005"
                                                        ],
                                              "group":  "OG-005"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-128.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-005",
+                                             "title":  "GRIP - OG-005",
                                              "original":  "alpha-one新照片\\OG-005.JPG",
                                              "width":  1200,
                                              "height":  797,
                                              "model":  "OG-005",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-005"
                                                        ],
                                              "group":  "OG-005"
@@ -1737,45 +1557,45 @@
                            "items":  [
                                          {
                                              "src":  "/images/products/leather-grips/leather-grips-003.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-006",
+                                             "title":  "GRIP - OG-006",
                                              "original":  "alpha-one新照片\\OG-006.JPG",
                                              "width":  1200,
                                              "height":  673,
                                              "model":  "OG-006",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-006"
                                                        ],
                                              "group":  "OG-006"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-056.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-006",
+                                             "title":  "GRIP - OG-006",
                                              "original":  "2013-taipei\\JPE\\OG-006副本.jpg",
                                              "width":  1200,
                                              "height":  673,
                                              "model":  "OG-006",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-006"
                                                        ],
                                              "group":  "OG-006"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-129.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-006",
+                                             "title":  "GRIP - OG-006",
                                              "original":  "alpha-one新照片\\OG-006.JPG",
                                              "width":  1200,
                                              "height":  673,
                                              "model":  "OG-006",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-006"
                                                        ],
                                              "group":  "OG-006"
@@ -1787,45 +1607,45 @@
                            "items":  [
                                          {
                                              "src":  "/images/products/leather-grips/leather-grips-004.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-007",
+                                             "title":  "GRIP - OG-007",
                                              "original":  "alpha-one新照片\\OG-007.JPG",
                                              "width":  1200,
                                              "height":  673,
                                              "model":  "OG-007",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-007"
                                                        ],
                                              "group":  "OG-007"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-057.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-007",
+                                             "title":  "GRIP - OG-007",
                                              "original":  "2013-taipei\\JPE\\OG-007副本.jpg",
                                              "width":  1200,
                                              "height":  688,
                                              "model":  "OG-007",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-007"
                                                        ],
                                              "group":  "OG-007"
                                          },
                                          {
                                              "src":  "/images/products/gallery/product-130.jpg",
-                                             "title":  "GRIP / BAR TAPE - OG-007",
+                                             "title":  "GRIP - OG-007",
                                              "original":  "alpha-one新照片\\OG-007.JPG",
                                              "width":  1200,
                                              "height":  673,
                                              "model":  "OG-007",
-                                             "productType":  "GRIP / BAR TAPE",
+                                             "productType":  "GRIP",
                                              "specs":  [
-                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "分類：GRIP / 握把",
+                                                           "Catalog: GRIP",
                                                            "型號：OG-007"
                                                        ],
                                              "group":  "OG-007"
@@ -1835,76 +1655,76 @@
                    ],
         "items":  [
                       {
-                          "src":  "/images/products/leather-grips/leather-grips-001.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-001",
-                          "original":  "2013-taipei\\JPE\\OG-001副本.jpg",
+                          "src":  "/images/products/gallery/product-109.jpg",
+                          "title":  "GRIP - OG-001",
+                          "original":  "alpha-one pic 舊照片\\OG-001.jpg",
                           "width":  1200,
-                          "height":  860,
+                          "height":  797,
                           "model":  "OG-001",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-001"
                                     ],
                           "group":  "OG-001"
                       },
                       {
                           "src":  "/images/products/leather-grips/leather-grips-002.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-005",
+                          "title":  "GRIP - OG-005",
                           "original":  "alpha-one新照片\\OG-005.JPG",
                           "width":  1200,
                           "height":  797,
                           "model":  "OG-005",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-005"
                                     ],
                           "group":  "OG-005"
                       },
                       {
                           "src":  "/images/products/leather-grips/leather-grips-003.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-006",
+                          "title":  "GRIP - OG-006",
                           "original":  "alpha-one新照片\\OG-006.JPG",
                           "width":  1200,
                           "height":  673,
                           "model":  "OG-006",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-006"
                                     ],
                           "group":  "OG-006"
                       },
                       {
                           "src":  "/images/products/leather-grips/leather-grips-004.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-007",
+                          "title":  "GRIP - OG-007",
                           "original":  "alpha-one新照片\\OG-007.JPG",
                           "width":  1200,
                           "height":  673,
                           "model":  "OG-007",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-007"
                                     ],
                           "group":  "OG-007"
                       },
                       {
                           "src":  "/images/products/leather-grips/leather-grips-005.jpg",
-                          "title":  "GRIP / BAR TAPE - BLT-001",
+                          "title":  "TAPES - BLT-001",
                           "original":  "alpha-one pic 舊照片\\BLT-001.jpg",
                           "width":  1200,
                           "height":  821,
                           "model":  "BLT-001",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "TAPES",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：TAPES / 手把帶",
+                                        "Catalog: TAPES",
                                         "型號：BLT-001"
                                     ],
                           "group":  "BLT-001"
@@ -1926,90 +1746,90 @@
                       },
                       {
                           "src":  "/images/products/gallery/product-054.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-001",
+                          "title":  "GRIP - OG-001",
                           "original":  "2013-taipei\\JPE\\OG-001副本.jpg",
                           "width":  1200,
                           "height":  860,
                           "model":  "OG-001",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-001"
                                     ],
                           "group":  "OG-001"
                       },
                       {
                           "src":  "/images/products/gallery/product-055.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-005",
+                          "title":  "GRIP - OG-005",
                           "original":  "2013-taipei\\JPE\\OG-005副本.jpg",
                           "width":  1200,
                           "height":  734,
                           "model":  "OG-005",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-005"
                                     ],
                           "group":  "OG-005"
                       },
                       {
                           "src":  "/images/products/gallery/product-056.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-006",
+                          "title":  "GRIP - OG-006",
                           "original":  "2013-taipei\\JPE\\OG-006副本.jpg",
                           "width":  1200,
                           "height":  673,
                           "model":  "OG-006",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-006"
                                     ],
                           "group":  "OG-006"
                       },
                       {
                           "src":  "/images/products/gallery/product-057.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-007",
+                          "title":  "GRIP - OG-007",
                           "original":  "2013-taipei\\JPE\\OG-007副本.jpg",
                           "width":  1200,
                           "height":  688,
                           "model":  "OG-007",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-007"
                                     ],
                           "group":  "OG-007"
                       },
                       {
                           "src":  "/images/products/gallery/product-076.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-001",
+                          "title":  "GRIP - OG-001",
                           "original":  "2014\\OG-001 lined.JPG",
                           "width":  1200,
                           "height":  900,
                           "model":  "OG-001",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-001"
                                     ],
                           "group":  "OG-001"
                       },
                       {
                           "src":  "/images/products/gallery/product-077.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-005",
+                          "title":  "GRIP - OG-005",
                           "original":  "2014\\OG-005 lined.JPG",
                           "width":  1200,
                           "height":  900,
                           "model":  "OG-005",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-005"
                                     ],
                           "group":  "OG-005"
@@ -2031,150 +1851,150 @@
                       },
                       {
                           "src":  "/images/products/gallery/product-104.jpg",
-                          "title":  "GRIP / BAR TAPE - BLT-001",
+                          "title":  "TAPES - BLT-001",
                           "original":  "alpha-one pic 舊照片\\BLT-001.jpg",
                           "width":  1200,
                           "height":  821,
                           "model":  "BLT-001",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "TAPES",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：TAPES / 手把帶",
+                                        "Catalog: TAPES",
                                         "型號：BLT-001"
                                     ],
                           "group":  "BLT-001"
                       },
                       {
                           "src":  "/images/products/gallery/product-109.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-001",
+                          "title":  "GRIP - OG-001",
                           "original":  "alpha-one pic 舊照片\\OG-001.jpg",
                           "width":  1200,
                           "height":  797,
                           "model":  "OG-001",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-001"
                                     ],
                           "group":  "OG-001"
                       },
                       {
                           "src":  "/images/products/gallery/product-110.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-001B",
+                          "title":  "GRIP - OG-001B",
                           "original":  "alpha-one pic 舊照片\\OG-001black.jpg",
                           "width":  1200,
                           "height":  797,
                           "model":  "OG-001B",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-001B"
                                     ],
                           "group":  "OG-001"
                       },
                       {
                           "src":  "/images/products/gallery/product-111.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-001H",
+                          "title":  "GRIP - OG-001H",
                           "original":  "alpha-one pic 舊照片\\OG-001honey.jpg",
                           "width":  1200,
                           "height":  797,
                           "model":  "OG-001H",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-001H"
                                     ],
                           "group":  "OG-001"
                       },
                       {
                           "src":  "/images/products/gallery/product-125.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-002",
+                          "title":  "GRIP - OG-002",
                           "original":  "alpha-one新照片\\OG-002.JPG",
                           "width":  1200,
                           "height":  797,
                           "model":  "OG-002",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-002"
                                     ],
                           "group":  "OG-002"
                       },
                       {
                           "src":  "/images/products/gallery/product-126.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-003",
+                          "title":  "GRIP - OG-003",
                           "original":  "alpha-one新照片\\OG-003.JPG",
                           "width":  1200,
                           "height":  671,
                           "model":  "OG-003",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-003"
                                     ],
                           "group":  "OG-003"
                       },
                       {
                           "src":  "/images/products/gallery/product-127.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-004",
+                          "title":  "GRIP - OG-004",
                           "original":  "alpha-one新照片\\OG-004.JPG",
                           "width":  1200,
                           "height":  797,
                           "model":  "OG-004",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-004"
                                     ],
                           "group":  "OG-004"
                       },
                       {
                           "src":  "/images/products/gallery/product-128.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-005",
+                          "title":  "GRIP - OG-005",
                           "original":  "alpha-one新照片\\OG-005.JPG",
                           "width":  1200,
                           "height":  797,
                           "model":  "OG-005",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-005"
                                     ],
                           "group":  "OG-005"
                       },
                       {
                           "src":  "/images/products/gallery/product-129.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-006",
+                          "title":  "GRIP - OG-006",
                           "original":  "alpha-one新照片\\OG-006.JPG",
                           "width":  1200,
                           "height":  673,
                           "model":  "OG-006",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-006"
                                     ],
                           "group":  "OG-006"
                       },
                       {
                           "src":  "/images/products/gallery/product-130.jpg",
-                          "title":  "GRIP / BAR TAPE - OG-007",
+                          "title":  "GRIP - OG-007",
                           "original":  "alpha-one新照片\\OG-007.JPG",
                           "width":  1200,
                           "height":  673,
                           "model":  "OG-007",
-                          "productType":  "GRIP / BAR TAPE",
+                          "productType":  "GRIP",
                           "specs":  [
-                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
-                                        "Catalog: GRIP / BAR TAPE",
+                                        "分類：GRIP / 握把",
+                                        "Catalog: GRIP",
                                         "型號：OG-007"
                                     ],
                           "group":  "OG-007"
@@ -2185,10 +2005,10 @@
         "key":  "bottle-cage",
         "titleZh":  "BOTTLE CAGE / 水壺架",
         "titleEn":  "BOTTLE CAGE",
-        "descriptionZh":  "依 Alpha-one 型錄整理的水壺架。",
-        "descriptionEn":  "Bottle cages from the Alpha-one catalog.",
+        "descriptionZh":  "水壺架。",
+        "descriptionEn":  "Bottle cages.",
         "url":  "/products/bottle-cage/",
-        "cover":  "/images/products/gallery/product-075.jpg",
+        "cover":  "/images/products/gallery/bc-14001-catalog-cutout.png",
         "count":  3,
         "grouped":  true,
         "groups":  [
@@ -2196,11 +2016,11 @@
                            "title":  "BC-14001",
                            "items":  [
                                          {
-                                             "src":  "/images/products/gallery/product-075.jpg",
+                                             "src":  "/images/products/gallery/bc-14001-catalog.jpg",
                                              "title":  "BOTTLE CAGE - BC-14001",
                                              "original":  "2014\\BC-14001.jpg",
-                                             "width":  480,
-                                             "height":  640,
+                                             "width":  500,
+                                             "height":  440,
                                              "model":  "BC-14001",
                                              "productType":  "BOTTLE CAGE",
                                              "specs":  [
@@ -2255,11 +2075,11 @@
                    ],
         "items":  [
                       {
-                          "src":  "/images/products/gallery/product-075.jpg",
+                          "src":  "/images/products/gallery/bc-14001-catalog.jpg",
                           "title":  "BOTTLE CAGE - BC-14001",
                           "original":  "2014\\BC-14001.jpg",
-                          "width":  480,
-                          "height":  640,
+                          "width":  500,
+                          "height":  440,
                           "model":  "BC-14001",
                           "productType":  "BOTTLE CAGE",
                           "specs":  [
@@ -2305,10 +2125,10 @@
         "key":  "trunk-bag",
         "titleZh":  "TRUNK BAG / 後座包",
         "titleEn":  "TRUNK BAG",
-        "descriptionZh":  "依 Alpha-one 型錄整理的後座包。",
-        "descriptionEn":  "Trunk bags from the Alpha-one catalog.",
+        "descriptionZh":  "後座包。",
+        "descriptionEn":  "Trunk bags.",
         "url":  "/products/trunk-bag/",
-        "cover":  "/images/products/gallery/product-093.jpg",
+        "cover":  "/images/products/gallery/product-093-cutout.png",
         "count":  2,
         "grouped":  true,
         "groups":  [
@@ -2390,10 +2210,10 @@
         "key":  "leg-strap",
         "titleZh":  "LEG STRAP / 腿束帶",
         "titleEn":  "LEG STRAP",
-        "descriptionZh":  "依 Alpha-one 型錄整理的腿束帶。",
-        "descriptionEn":  "Leg straps from the Alpha-one catalog.",
+        "descriptionZh":  "腿束帶。",
+        "descriptionEn":  "Leg straps.",
         "url":  "/products/leg-strap/",
-        "cover":  "/images/products/gallery/product-082.jpg",
+        "cover":  "/images/products/gallery/ls-15001-catalog.png",
         "count":  1,
         "grouped":  true,
         "groups":  [
@@ -2401,11 +2221,11 @@
                            "title":  "LS-15001",
                            "items":  [
                                          {
-                                             "src":  "/images/products/gallery/product-082.jpg",
+                                             "src":  "/images/products/gallery/ls-15001-catalog.png",
                                              "title":  "LEG STRAP - LS-15001",
                                              "original":  "2015\\LS-15001 packaging 151118.jpg",
-                                             "width":  667,
-                                             "height":  900,
+                                             "width":  854,
+                                             "height":  806,
                                              "model":  "LS-15001",
                                              "productType":  "LEG STRAP",
                                              "specs":  [
@@ -2420,11 +2240,11 @@
                    ],
         "items":  [
                       {
-                          "src":  "/images/products/gallery/product-082.jpg",
+                          "src":  "/images/products/gallery/ls-15001-catalog.png",
                           "title":  "LEG STRAP - LS-15001",
                           "original":  "2015\\LS-15001 packaging 151118.jpg",
-                          "width":  667,
-                          "height":  900,
+                          "width":  854,
+                          "height":  806,
                           "model":  "LS-15001",
                           "productType":  "LEG STRAP",
                           "specs":  [
@@ -2437,3 +2257,4 @@
                   ]
     }
 ]
+

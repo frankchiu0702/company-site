@@ -49,10 +49,16 @@
     {{ range hugo.Data.product_categories }}
     {{ $title := cond (eq site.Language.Lang "zh") .titleZh .titleEn }}
     {{ $description := cond (eq site.Language.Lang "zh") .descriptionZh .descriptionEn }}
+    {{ $displayCount := cond .grouped (len .groups) .count }}
     <a class="product-card product-category-card" href="{{ .url | relLangURL }}">
-      <span>{{ .count }} {{ cond (eq site.Language.Lang "zh") "項產品" "Products" }}</span>
-      <h3>{{ $title }}</h3>
-      <p>{{ $description }}</p>
+      <span class="product-card-media">
+        <img src="{{ .cover }}" alt="{{ $title }}" loading="lazy">
+      </span>
+      <span class="product-card-copy">
+        <span class="product-count">{{ $displayCount }} {{ cond (eq site.Language.Lang "zh") "項產品" "Products" }}</span>
+        <h3>{{ $title }}</h3>
+        <p>{{ $description }}</p>
+      </span>
     </a>
     {{ end }}
   </div>
@@ -97,6 +103,17 @@
     <div class="contact-actions">
       <a class="contact-link" href="mailto:frankchiu0702@gmail.com?subject=OEM%20Inquiry">frankchiu0702@gmail.com</a>
       <a class="contact-link" href="tel:+886492317640">+886-49-2317640</a>
+      <div class="contact-link contact-address">
+        <span>Add:</span>
+        {{ if eq site.Language.Lang "zh" }}
+          <address>南投縣草屯鎮民權路51號</address>
+        {{ else }}
+          <address>No.51, Minquan Rd., Caotun Township, Nantou County 54262, Taiwan</address>
+        {{ end }}
+      </div>
+      <div class="contact-qr">
+        <img src="/images/line-qr.png" alt="LINE QR code" loading="lazy" width="686" height="686">
+      </div>
       <a class="btn primary" href="mailto:frankchiu0702@gmail.com?subject=OEM%20Inquiry">{{ i18n "btn_email" }}</a>
     </div>
   </div>
