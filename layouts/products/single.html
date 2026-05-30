@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{ $categoryKey := .Params.categoryKey }}
+{{ $category := index (where hugo.Data.product_categories "key" $categoryKey) 0 }}
+{{ $title := cond (eq site.Language.Lang "zh") $category.titleZh $category.titleEn }}
+{{ $description := cond (eq site.Language.Lang "zh") $category.descriptionZh $category.descriptionEn }}
+
+<section class="section category-page category-{{ $category.key }}">
+  <a class="back-link" href="{{ "/" | relLangURL }}#products">{{ cond (eq site.Language.Lang "zh") "回主要產品" "Back to products" }}</a>
+  <div class="section-heading category-heading">
+    <div>
+      <span class="section-kicker">{{ cond (eq site.Language.Lang "zh") "主要產品" "Product Range" }}</span>
+      <h1>{{ $title }}</h1>
+      <p>{{ $description }}</p>
+    </div>
+    <strong>{{ $category.count }} {{ cond (eq site.Language.Lang "zh") "項產品" "Products" }}</strong>
+  </div>
+
+  {{ if $category.grouped }}
+  <div class="grouped-gallery" aria-label="{{ $title }}">
+    {{ range $category.groups }}
+    <section class="product-group">
+      <h2>{{ .title }}</h2>
+      <div class="product-gallery category-gallery">
+        {{ range .items }}
+        <a class="gallery-item" href="{{ .src }}" target="_blank" rel="noopener">
+          <img src="{{ .src }}" alt="{{ .title }}" loading="lazy" width="{{ .width }}" height="{{ .height }}">
+          {{ if ne .hideMeta true }}
+          <span class="gallery-meta">
+            <strong>{{ .title }}</strong>
+            <small>{{ $title }}</small>
+            {{ with .specs }}
+            <span class="product-specs">
+              {{ range . }}
+              <em>{{ . }}</em>
+              {{ end }}
+            </span>
+            {{ end }}
+          </span>
+          {{ end }}
+        </a>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="product-gallery category-gallery" aria-label="{{ $title }}">
+    {{ range $category.items }}
+    <a class="gallery-item" href="{{ .src }}" target="_blank" rel="noopener">
+      <img src="{{ .src }}" alt="{{ .title }}" loading="lazy" width="{{ .width }}" height="{{ .height }}">
+      {{ if ne .hideMeta true }}
+      <span class="gallery-meta">
+        <strong>{{ .title }}</strong>
+        <small>{{ $title }}</small>
+        {{ with .specs }}
+        <span class="product-specs">
+          {{ range . }}
+          <em>{{ . }}</em>
+          {{ end }}
+        </span>
+        {{ end }}
+      </span>
+      {{ end }}
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <div class="category-bottom-action">
+    <a class="back-link back-link-bottom" href="{{ "/" | relLangURL }}#products">{{ cond (eq site.Language.Lang "zh") "回上頁" "Back" }}</a>
+  </div>
+</section>
+{{ end }}

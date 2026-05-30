@@ -1,0 +1,6 @@
+﻿After move check
+Active images remaining: 147
+Exact duplicate groups remaining: 0
+Exact duplicate files remaining: 0
+Moved duplicates folder: C:\Users\HQ-240319\company-site\product-images\_duplicates_exact
+Reports folder: C:\Users\HQ-240319\company-site\product-images\_reports

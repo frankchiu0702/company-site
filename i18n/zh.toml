@@ -1,0 +1,94 @@
+[brand_name]
+other = "暢鴻實業"
+[nav_products]
+other = "產品"
+[nav_capabilities]
+other = "能力"
+[nav_leather_care]
+other = "皮革保養"
+[nav_contact]
+other = "聯絡"
+[hero_eyebrow]
+other = "Taiwan OEM / ODM Bicycle Accessories"
+[hero_title]
+other = "為外銷市場打造可靠的自行車配件"
+[hero_lead]
+other = "暢鴻實業專注皮革握把、座墊、車包與客製化零件，協助品牌商與通路客戶穩定開發、製造與交付。"
+[btn_quote]
+other = "索取報價"
+[btn_catalog]
+other = "下載型錄"
+[stats_label]
+other = "製造重點"
+[stat_oem]
+other = "代工製造"
+[stat_odm]
+other = "客製開發"
+[stat_qc]
+other = "品質控管"
+[about_kicker]
+other = "About CHANG HOUNG"
+[about_title]
+other = "從開發到量產，讓採購更安心。"
+[about_desc]
+other = "我們服務外銷導向的自行車與戶外品牌，將設計需求轉成可量產、可控管、可準時出貨的產品。"
+[about_desc2]
+other = "不論是既有款式採購、材質調整、包裝規劃或 OEM / ODM 專案，我們都能以務實流程協助您縮短溝通時間。"
+[products_kicker]
+other = "Product Range"
+[products_title]
+other = "主要產品系列"
+[product_1_tag]
+other = "Handlebar"
+[product_1_title]
+other = "皮革握把"
+[product_1_desc]
+other = "適用復古車、城市車與電輔車，可依品牌需求調整材質、顏色與縫線。"
+[product_2_tag]
+other = "Saddle"
+[product_2_title]
+other = "自行車座墊"
+[product_2_desc]
+other = "重視舒適度、外觀與耐用度，支援多種表面材質與結構配置。"
+[product_3_tag]
+other = "Storage"
+[product_3_title]
+other = "車包與收納"
+[product_3_desc]
+other = "提供工具包、後座包與客製收納方案，適合品牌配套與系列化開發。"
+[product_4_tag]
+other = "Custom"
+[product_4_title]
+other = "客製零件"
+[product_4_desc]
+other = "依照圖面、樣品或目標成本進行打樣、修正與量產評估。"
+[capability_kicker]
+other = "Manufacturing"
+[capability_title]
+other = "適合國際採購的合作流程"
+[cap1]
+other = "需求確認"
+[cap1_desc]
+other = "確認款式、材質、包裝、數量與目標市場，讓報價條件清楚。"
+[cap2]
+other = "打樣開發"
+[cap2_desc]
+other = "依照樣品或設計方向進行材質搭配、結構修正與外觀確認。"
+[cap3]
+other = "量產管理"
+[cap3_desc]
+other = "安排生產排程、品質檢查與包裝，維持穩定交期與一致性。"
+[cap4]
+other = "出口支援"
+[cap4_desc]
+other = "協助提供產品資料、型錄與外銷溝通所需的基本資訊。"
+[contact_kicker]
+other = "Inquiry"
+[contact_title]
+other = "告訴我們您的採購需求"
+[contact_desc]
+other = "歡迎提供產品照片、規格、數量或目標價格，我們會盡快回覆可行方案與報價方向。"
+[btn_email]
+other = "寄送詢價"
+[footer_note]
+other = "Bicycle accessories for export markets."

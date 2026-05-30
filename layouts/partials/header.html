@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
+      <span class="brand-mark">CH</span>
+      <span class="brand-name">{{ i18n "brand_name" }}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a href="{{ "/" | relLangURL }}#products">{{ i18n "nav_products" }}</a>
+      <a href="{{ "/" | relLangURL }}#capabilities">{{ i18n "nav_capabilities" }}</a>
+      <a href="{{ "leather-care/" | relLangURL }}">{{ i18n "nav_leather_care" }}</a>
+      <a href="{{ "/" | relLangURL }}#contact">{{ i18n "nav_contact" }}</a>
+    </nav>
+
+    <div class="lang-switch" aria-label="Language switcher">
+      {{ range .AllTranslations }}
+        <a class="{{ if eq .Lang $.Lang }}active{{ end }}" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+      {{ end }}
+    </div>
+  </div>
+</header>

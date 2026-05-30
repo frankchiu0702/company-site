@@ -1,0 +1,104 @@
+{{ define "main" }}
+<section class="hero" id="top">
+  <div class="hero-media" aria-hidden="true"></div>
+  <div class="hero-overlay"></div>
+  <div class="hero-inner">
+    <p class="eyebrow">{{ i18n "hero_eyebrow" }}</p>
+    <h1>{{ i18n "hero_title" }}</h1>
+    <p class="hero-lead">{{ i18n "hero_lead" }}</p>
+    <div class="hero-actions">
+      <a class="btn primary" href="#contact">{{ i18n "btn_quote" }}</a>
+      <a class="btn secondary" href="/files/Alpha-one.pdf" target="_blank" rel="noopener">{{ i18n "btn_catalog" }}</a>
+    </div>
+    <div class="hero-stats" aria-label="{{ i18n "stats_label" }}">
+      <div>
+        <strong>OEM</strong>
+        <span>{{ i18n "stat_oem" }}</span>
+      </div>
+      <div>
+        <strong>ODM</strong>
+        <span>{{ i18n "stat_odm" }}</span>
+      </div>
+      <div>
+        <strong>QC</strong>
+        <span>{{ i18n "stat_qc" }}</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section intro" id="about">
+  <div class="section-kicker">{{ i18n "about_kicker" }}</div>
+  <div class="split">
+    <div>
+      <h2>{{ i18n "about_title" }}</h2>
+    </div>
+    <div class="rich-text">
+      <p>{{ i18n "about_desc" }}</p>
+      <p>{{ i18n "about_desc2" }}</p>
+    </div>
+  </div>
+</section>
+
+<section class="section product-section" id="products">
+  <div class="section-heading">
+    <span class="section-kicker">{{ i18n "products_kicker" }}</span>
+    <h2>{{ i18n "products_title" }}</h2>
+  </div>
+  <div class="product-grid">
+    {{ range hugo.Data.product_categories }}
+    {{ $title := cond (eq site.Language.Lang "zh") .titleZh .titleEn }}
+    {{ $description := cond (eq site.Language.Lang "zh") .descriptionZh .descriptionEn }}
+    <a class="product-card product-category-card" href="{{ .url | relLangURL }}">
+      <span>{{ .count }} {{ cond (eq site.Language.Lang "zh") "項產品" "Products" }}</span>
+      <h3>{{ $title }}</h3>
+      <p>{{ $description }}</p>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+<section class="section capability-section" id="capabilities">
+  <div class="section-heading">
+    <span class="section-kicker">{{ i18n "capability_kicker" }}</span>
+    <h2>{{ i18n "capability_title" }}</h2>
+  </div>
+  <div class="process-grid">
+    <div>
+      <span>01</span>
+      <h3>{{ i18n "cap1" }}</h3>
+      <p>{{ i18n "cap1_desc" }}</p>
+    </div>
+    <div>
+      <span>02</span>
+      <h3>{{ i18n "cap2" }}</h3>
+      <p>{{ i18n "cap2_desc" }}</p>
+    </div>
+    <div>
+      <span>03</span>
+      <h3>{{ i18n "cap3" }}</h3>
+      <p>{{ i18n "cap3_desc" }}</p>
+    </div>
+    <div>
+      <span>04</span>
+      <h3>{{ i18n "cap4" }}</h3>
+      <p>{{ i18n "cap4_desc" }}</p>
+    </div>
+  </div>
+</section>
+
+<section class="section contact-section" id="contact">
+  <div class="contact-panel">
+    <div>
+      <span class="section-kicker">{{ i18n "contact_kicker" }}</span>
+      <h2>{{ i18n "contact_title" }}</h2>
+      <p>{{ i18n "contact_desc" }}</p>
+    </div>
+    <div class="contact-actions">
+      <a class="contact-link" href="mailto:frankchiu0702@gmail.com?subject=OEM%20Inquiry">frankchiu0702@gmail.com</a>
+      <a class="contact-link" href="tel:+886492317640">+886-49-2317640</a>
+      <a class="btn primary" href="mailto:frankchiu0702@gmail.com?subject=OEM%20Inquiry">{{ i18n "btn_email" }}</a>
+    </div>
+  </div>
+</section>
+{{ end }}

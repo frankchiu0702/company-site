@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="section content-page">
+  <a class="back-link" href="{{ "/" | relLangURL }}">{{ cond (eq site.Language.Lang "zh") "回首頁" "Back to home" }}</a>
+  <div class="content-shell">
+    <div class="section-kicker">{{ .Params.kicker }}</div>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="content-lead">{{ . }}</p>
+    {{ end }}
+    <div class="rich-text content-body">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}

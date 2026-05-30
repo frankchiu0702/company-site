@@ -1,0 +1,2439 @@
+[
+    {
+        "key":  "saddles",
+        "titleZh":  "SADDLES / 自行車座墊",
+        "titleEn":  "SADDLES",
+        "descriptionZh":  "依 Alpha-one 型錄整理的自行車座墊。",
+        "descriptionEn":  "Bicycle saddles from the Alpha-one catalog.",
+        "url":  "/products/saddles/",
+        "cover":  "/images/products/bicycle-saddles/bicycle-saddles-001.jpg",
+        "count":  6,
+        "grouped":  true,
+        "groups":  [
+                       {
+                           "title":  "OT-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-131.jpg",
+                                             "title":  "SADDLES - OT-001",
+                                             "original":  "alpha-one新照片\\OT-001 antique finish.JPG",
+                                             "width":  1200,
+                                             "height":  655,
+                                             "model":  "OT-001",
+                                             "productType":  "SADDLES",
+                                             "specs":  [
+                                                           "分類：SADDLES / 自行車座墊",
+                                                           "Catalog: SADDLES",
+                                                           "型號：OT-001"
+                                                       ],
+                                             "group":  "OT-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OT-12002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-145.jpg",
+                                             "title":  "SADDLES - OT-12002",
+                                             "original":  "Black\\OT-12002 black.JPG",
+                                             "width":  1200,
+                                             "height":  550,
+                                             "model":  "OT-12002",
+                                             "productType":  "SADDLES",
+                                             "specs":  [
+                                                           "分類：SADDLES / 自行車座墊",
+                                                           "Catalog: SADDLES",
+                                                           "型號：OT-12002"
+                                                       ],
+                                             "group":  "OT-12002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OT-17012",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/bicycle-saddles/bicycle-saddles-001.jpg",
+                                             "title":  "SADDLES - OT-17012",
+                                             "original":  "2017\\OT-17012 28x24x9.jpg",
+                                             "width":  1200,
+                                             "height":  819,
+                                             "model":  "OT-17012",
+                                             "productType":  "SADDLES",
+                                             "specs":  [
+                                                           "分類：SADDLES / 自行車座墊",
+                                                           "Catalog: SADDLES",
+                                                           "型號：OT-17012",
+                                                           "尺寸：28 x 24 x 9 cm"
+                                                       ],
+                                             "group":  "OT-17012"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OT-17021",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/bicycle-saddles/bicycle-saddles-002.jpg",
+                                             "title":  "SADDLES - OT-17021",
+                                             "original":  "2017\\OT-17021.jpg",
+                                             "width":  1200,
+                                             "height":  789,
+                                             "model":  "OT-17021",
+                                             "productType":  "SADDLES",
+                                             "specs":  [
+                                                           "分類：SADDLES / 自行車座墊",
+                                                           "Catalog: SADDLES",
+                                                           "型號：OT-17021"
+                                                       ],
+                                             "group":  "OT-17021"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OT-17022",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/bicycle-saddles/bicycle-saddles-003.jpg",
+                                             "title":  "SADDLES - OT-17022",
+                                             "original":  "2017\\OT-17022.jpg",
+                                             "width":  1200,
+                                             "height":  833,
+                                             "model":  "OT-17022",
+                                             "productType":  "SADDLES",
+                                             "specs":  [
+                                                           "分類：SADDLES / 自行車座墊",
+                                                           "Catalog: SADDLES",
+                                                           "型號：OT-17022"
+                                                       ],
+                                             "group":  "OT-17022"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OT-17023",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/bicycle-saddles/bicycle-saddles-004.jpg",
+                                             "title":  "SADDLES - OT-17023",
+                                             "original":  "2017\\OT-17023.jpg",
+                                             "width":  1200,
+                                             "height":  789,
+                                             "model":  "OT-17023",
+                                             "productType":  "SADDLES",
+                                             "specs":  [
+                                                           "分類：SADDLES / 自行車座墊",
+                                                           "Catalog: SADDLES",
+                                                           "型號：OT-17023"
+                                                       ],
+                                             "group":  "OT-17023"
+                                         }
+                                     ]
+                       }
+                   ],
+        "items":  [
+                      {
+                          "src":  "/images/products/bicycle-saddles/bicycle-saddles-001.jpg",
+                          "title":  "SADDLES - OT-17012",
+                          "original":  "2017\\OT-17012 28x24x9.jpg",
+                          "width":  1200,
+                          "height":  819,
+                          "model":  "OT-17012",
+                          "productType":  "SADDLES",
+                          "specs":  [
+                                        "分類：SADDLES / 自行車座墊",
+                                        "Catalog: SADDLES",
+                                        "型號：OT-17012",
+                                        "尺寸：28 x 24 x 9 cm"
+                                    ],
+                          "group":  "OT-17012"
+                      },
+                      {
+                          "src":  "/images/products/bicycle-saddles/bicycle-saddles-002.jpg",
+                          "title":  "SADDLES - OT-17021",
+                          "original":  "2017\\OT-17021.jpg",
+                          "width":  1200,
+                          "height":  789,
+                          "model":  "OT-17021",
+                          "productType":  "SADDLES",
+                          "specs":  [
+                                        "分類：SADDLES / 自行車座墊",
+                                        "Catalog: SADDLES",
+                                        "型號：OT-17021"
+                                    ],
+                          "group":  "OT-17021"
+                      },
+                      {
+                          "src":  "/images/products/bicycle-saddles/bicycle-saddles-003.jpg",
+                          "title":  "SADDLES - OT-17022",
+                          "original":  "2017\\OT-17022.jpg",
+                          "width":  1200,
+                          "height":  833,
+                          "model":  "OT-17022",
+                          "productType":  "SADDLES",
+                          "specs":  [
+                                        "分類：SADDLES / 自行車座墊",
+                                        "Catalog: SADDLES",
+                                        "型號：OT-17022"
+                                    ],
+                          "group":  "OT-17022"
+                      },
+                      {
+                          "src":  "/images/products/bicycle-saddles/bicycle-saddles-004.jpg",
+                          "title":  "SADDLES - OT-17023",
+                          "original":  "2017\\OT-17023.jpg",
+                          "width":  1200,
+                          "height":  789,
+                          "model":  "OT-17023",
+                          "productType":  "SADDLES",
+                          "specs":  [
+                                        "分類：SADDLES / 自行車座墊",
+                                        "Catalog: SADDLES",
+                                        "型號：OT-17023"
+                                    ],
+                          "group":  "OT-17023"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-131.jpg",
+                          "title":  "SADDLES - OT-001",
+                          "original":  "alpha-one新照片\\OT-001 antique finish.JPG",
+                          "width":  1200,
+                          "height":  655,
+                          "model":  "OT-001",
+                          "productType":  "SADDLES",
+                          "specs":  [
+                                        "分類：SADDLES / 自行車座墊",
+                                        "Catalog: SADDLES",
+                                        "型號：OT-001"
+                                    ],
+                          "group":  "OT-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-145.jpg",
+                          "title":  "SADDLES - OT-12002",
+                          "original":  "Black\\OT-12002 black.JPG",
+                          "width":  1200,
+                          "height":  550,
+                          "model":  "OT-12002",
+                          "productType":  "SADDLES",
+                          "specs":  [
+                                        "分類：SADDLES / 自行車座墊",
+                                        "Catalog: SADDLES",
+                                        "型號：OT-12002"
+                                    ],
+                          "group":  "OT-12002"
+                      }
+                  ]
+    },
+    {
+        "key":  "upper-tube-bag",
+        "titleZh":  "UPPER TUBE BAG / 上管包",
+        "titleEn":  "UPPER TUBE BAG",
+        "descriptionZh":  "依 Alpha-one 型錄整理的上管包。",
+        "descriptionEn":  "Upper tube bags from the Alpha-one catalog.",
+        "url":  "/products/upper-tube-bag/",
+        "cover":  "/images/products/gallery/product-020.jpg",
+        "count":  5,
+        "grouped":  true,
+        "groups":  [
+                       {
+                           "title":  "UB-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-120.jpg",
+                                             "title":  "UPPER TUBE BAG - UB-001",
+                                             "original":  "alpha-one pic 舊照片\\UB-001.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "UB-001",
+                                             "productType":  "UPPER TUBE BAG",
+                                             "specs":  [
+                                                           "分類：UPPER TUBE BAG / 上管包",
+                                                           "Catalog: UPPER TUBE BAG",
+                                                           "型號：UB-001"
+                                                       ],
+                                             "group":  "UB-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "UB-002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-122.jpg",
+                                             "title":  "UPPER TUBE BAG - UB-002",
+                                             "original":  "alpha-one pic 舊照片\\UB-002.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "UB-002",
+                                             "productType":  "UPPER TUBE BAG",
+                                             "specs":  [
+                                                           "分類：UPPER TUBE BAG / 上管包",
+                                                           "Catalog: UPPER TUBE BAG",
+                                                           "型號：UB-002"
+                                                       ],
+                                             "group":  "UB-002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "UB-12002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-020.jpg",
+                                             "title":  "UPPER TUBE BAG - UB-12002",
+                                             "original":  "2012 for new products\\上傳檔案for www\\UB-12002.JPG",
+                                             "width":  722,
+                                             "height":  480,
+                                             "model":  "UB-12002",
+                                             "productType":  "UPPER TUBE BAG",
+                                             "specs":  [
+                                                           "分類：UPPER TUBE BAG / 上管包",
+                                                           "Catalog: UPPER TUBE BAG",
+                                                           "型號：UB-12002"
+                                                       ],
+                                             "group":  "UB-12002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "UB-13001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-074.jpg",
+                                             "title":  "UPPER TUBE BAG - UB-13001",
+                                             "original":  "2013-taipei\\UB-13001.jpg",
+                                             "width":  1136,
+                                             "height":  900,
+                                             "model":  "UB-13001",
+                                             "productType":  "UPPER TUBE BAG",
+                                             "specs":  [
+                                                           "分類：UPPER TUBE BAG / 上管包",
+                                                           "Catalog: UPPER TUBE BAG",
+                                                           "型號：UB-13001"
+                                                       ],
+                                             "group":  "UB-13001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "UB-15001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-091.jpg",
+                                             "title":  "UPPER TUBE BAG - UB-15001",
+                                             "original":  "2015\\UB-15001.jpg",
+                                             "width":  1200,
+                                             "height":  679,
+                                             "model":  "UB-15001",
+                                             "productType":  "UPPER TUBE BAG",
+                                             "specs":  [
+                                                           "分類：UPPER TUBE BAG / 上管包",
+                                                           "Catalog: UPPER TUBE BAG",
+                                                           "型號：UB-15001"
+                                                       ],
+                                             "group":  "UB-15001"
+                                         }
+                                     ]
+                       }
+                   ],
+        "items":  [
+                      {
+                          "src":  "/images/products/gallery/product-020.jpg",
+                          "title":  "UPPER TUBE BAG - UB-12002",
+                          "original":  "2012 for new products\\上傳檔案for www\\UB-12002.JPG",
+                          "width":  722,
+                          "height":  480,
+                          "model":  "UB-12002",
+                          "productType":  "UPPER TUBE BAG",
+                          "specs":  [
+                                        "分類：UPPER TUBE BAG / 上管包",
+                                        "Catalog: UPPER TUBE BAG",
+                                        "型號：UB-12002"
+                                    ],
+                          "group":  "UB-12002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-074.jpg",
+                          "title":  "UPPER TUBE BAG - UB-13001",
+                          "original":  "2013-taipei\\UB-13001.jpg",
+                          "width":  1136,
+                          "height":  900,
+                          "model":  "UB-13001",
+                          "productType":  "UPPER TUBE BAG",
+                          "specs":  [
+                                        "分類：UPPER TUBE BAG / 上管包",
+                                        "Catalog: UPPER TUBE BAG",
+                                        "型號：UB-13001"
+                                    ],
+                          "group":  "UB-13001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-091.jpg",
+                          "title":  "UPPER TUBE BAG - UB-15001",
+                          "original":  "2015\\UB-15001.jpg",
+                          "width":  1200,
+                          "height":  679,
+                          "model":  "UB-15001",
+                          "productType":  "UPPER TUBE BAG",
+                          "specs":  [
+                                        "分類：UPPER TUBE BAG / 上管包",
+                                        "Catalog: UPPER TUBE BAG",
+                                        "型號：UB-15001"
+                                    ],
+                          "group":  "UB-15001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-120.jpg",
+                          "title":  "UPPER TUBE BAG - UB-001",
+                          "original":  "alpha-one pic 舊照片\\UB-001.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "UB-001",
+                          "productType":  "UPPER TUBE BAG",
+                          "specs":  [
+                                        "分類：UPPER TUBE BAG / 上管包",
+                                        "Catalog: UPPER TUBE BAG",
+                                        "型號：UB-001"
+                                    ],
+                          "group":  "UB-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-122.jpg",
+                          "title":  "UPPER TUBE BAG - UB-002",
+                          "original":  "alpha-one pic 舊照片\\UB-002.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "UB-002",
+                          "productType":  "UPPER TUBE BAG",
+                          "specs":  [
+                                        "分類：UPPER TUBE BAG / 上管包",
+                                        "Catalog: UPPER TUBE BAG",
+                                        "型號：UB-002"
+                                    ],
+                          "group":  "UB-002"
+                      }
+                  ]
+    },
+    {
+        "key":  "saddle-bag",
+        "titleZh":  "SADDLE BAG / 座墊包",
+        "titleEn":  "SADDLE BAG",
+        "descriptionZh":  "依 Alpha-one 型錄整理的座墊包，並按型號分組。",
+        "descriptionEn":  "Saddle bags from the Alpha-one catalog, grouped by model.",
+        "url":  "/products/saddle-bag/",
+        "cover":  "/images/products/gallery/product-009.jpg",
+        "count":  15,
+        "grouped":  true,
+        "groups":  [
+                       {
+                           "title":  "SB-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-113.jpg",
+                                             "title":  "SADDLE BAG - SB-001",
+                                             "original":  "alpha-one pic 舊照片\\SB-001.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "SB-001",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-001"
+                                                       ],
+                                             "group":  "SB-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-112.jpg",
+                                             "title":  "SADDLE BAG - SB-002",
+                                             "original":  "alpha-one pic 舊照片\\SB -002.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "SB-002",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-002"
+                                                       ],
+                                             "group":  "SB-002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-005",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-118.jpg",
+                                             "title":  "SADDLE BAG - SB-005",
+                                             "original":  "alpha-one pic 舊照片\\SB-005.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "SB-005",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-005"
+                                                       ],
+                                             "group":  "SB-005"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-12004 L",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-009.jpg",
+                                             "title":  "SADDLE BAG - SB-12004 L",
+                                             "original":  "2012 for new products\\SB-12004B.JPG",
+                                             "width":  1200,
+                                             "height":  750,
+                                             "model":  "SB-12004L",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-12004",
+                                                           "尺寸：L"
+                                                       ],
+                                             "group":  "SB-12004 L"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-12004 M",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-011.jpg",
+                                             "title":  "SADDLE BAG - SB-12004 M",
+                                             "original":  "2012 for new products\\SB-12004M側面圖.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "SB-12004M",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-12004",
+                                                           "尺寸：M"
+                                                       ],
+                                             "group":  "SB-12004 M"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-12004 S",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-012.jpg",
+                                             "title":  "SADDLE BAG - SB-12004 S",
+                                             "original":  "2012 for new products\\SB-12004S.JPG",
+                                             "width":  1200,
+                                             "height":  809,
+                                             "model":  "SB-12004S",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-12004",
+                                                           "尺寸：S"
+                                                       ],
+                                             "group":  "SB-12004 S"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-12006",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-013.jpg",
+                                             "title":  "SADDLE BAG - SB-12006",
+                                             "original":  "2012 for new products\\SB-12006.JPG",
+                                             "width":  978,
+                                             "height":  900,
+                                             "model":  "SB-12006",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-12006"
+                                                       ],
+                                             "group":  "SB-12006"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-13003",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-029.jpg",
+                                             "title":  "SADDLE BAG - SB-13003",
+                                             "original":  "2013\\SB-13003.JPG",
+                                             "width":  1200,
+                                             "height":  798,
+                                             "model":  "SB-13003",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-13003"
+                                                       ],
+                                             "group":  "SB-13003"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-14001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-078.jpg",
+                                             "title":  "SADDLE BAG - SB-14001",
+                                             "original":  "2014\\SB-14001.jpg",
+                                             "width":  1200,
+                                             "height":  841,
+                                             "model":  "SB-14001",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-14001"
+                                                       ],
+                                             "group":  "SB-14001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-14002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-079.jpg",
+                                             "title":  "SADDLE BAG - SB-14002",
+                                             "original":  "2014\\SB-14002.jpg",
+                                             "width":  1200,
+                                             "height":  874,
+                                             "model":  "SB-14002",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-14002"
+                                                       ],
+                                             "group":  "SB-14002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-15001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-030.jpg",
+                                             "title":  "SADDLE BAG - SB-15001",
+                                             "original":  "2013\\SB-15001.JPG",
+                                             "width":  951,
+                                             "height":  900,
+                                             "model":  "SB-15001",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-15001"
+                                                       ],
+                                             "group":  "SB-15001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-15002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-084.jpg",
+                                             "title":  "SADDLE BAG - SB-15002",
+                                             "original":  "2015\\SB-15002-B.jpg",
+                                             "width":  1200,
+                                             "height":  679,
+                                             "model":  "SB-15002",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-15002"
+                                                       ],
+                                             "group":  "SB-15002"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-083.jpg",
+                                             "title":  "SADDLE BAG - SB-15002",
+                                             "original":  "2015\\SB-15002-B sides.jpg",
+                                             "width":  1200,
+                                             "height":  679,
+                                             "model":  "SB-15002",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-15002"
+                                                       ],
+                                             "hideMeta":  true,
+                                             "group":  "SB-15002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-15003",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-086.jpg",
+                                             "title":  "SADDLE BAG - SB-15003",
+                                             "original":  "2015\\SB-15003-B1.jpg",
+                                             "width":  1200,
+                                             "height":  679,
+                                             "model":  "SB-15003",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-15003"
+                                                       ],
+                                             "group":  "SB-15003"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-088.jpg",
+                                             "title":  "SADDLE BAG - SB-15003",
+                                             "original":  "2015\\SB-15003-B-sides.jpg",
+                                             "width":  1200,
+                                             "height":  679,
+                                             "model":  "SB-15003",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "Catalog: SADDLE BAG",
+                                                           "型號：SB-15003"
+                                                       ],
+                                             "hideMeta":  true,
+                                             "group":  "SB-15003"
+                                         }
+                                     ]
+                       }
+                   ],
+        "items":  [
+                      {
+                          "src":  "/images/products/gallery/product-009.jpg",
+                          "title":  "SADDLE BAG - SB-12004 L",
+                          "original":  "2012 for new products\\SB-12004B.JPG",
+                          "width":  1200,
+                          "height":  750,
+                          "model":  "SB-12004L",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-12004",
+                                        "尺寸：L"
+                                    ],
+                          "group":  "SB-12004 L"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-011.jpg",
+                          "title":  "SADDLE BAG - SB-12004 M",
+                          "original":  "2012 for new products\\SB-12004M側面圖.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "SB-12004M",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-12004",
+                                        "尺寸：M"
+                                    ],
+                          "group":  "SB-12004 M"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-012.jpg",
+                          "title":  "SADDLE BAG - SB-12004 S",
+                          "original":  "2012 for new products\\SB-12004S.JPG",
+                          "width":  1200,
+                          "height":  809,
+                          "model":  "SB-12004S",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-12004",
+                                        "尺寸：S"
+                                    ],
+                          "group":  "SB-12004 S"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-013.jpg",
+                          "title":  "SADDLE BAG - SB-12006",
+                          "original":  "2012 for new products\\SB-12006.JPG",
+                          "width":  978,
+                          "height":  900,
+                          "model":  "SB-12006",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-12006"
+                                    ],
+                          "group":  "SB-12006"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-029.jpg",
+                          "title":  "SADDLE BAG - SB-13003",
+                          "original":  "2013\\SB-13003.JPG",
+                          "width":  1200,
+                          "height":  798,
+                          "model":  "SB-13003",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-13003"
+                                    ],
+                          "group":  "SB-13003"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-030.jpg",
+                          "title":  "SADDLE BAG - SB-15001",
+                          "original":  "2013\\SB-15001.JPG",
+                          "width":  951,
+                          "height":  900,
+                          "model":  "SB-15001",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-15001"
+                                    ],
+                          "group":  "SB-15001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-078.jpg",
+                          "title":  "SADDLE BAG - SB-14001",
+                          "original":  "2014\\SB-14001.jpg",
+                          "width":  1200,
+                          "height":  841,
+                          "model":  "SB-14001",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-14001"
+                                    ],
+                          "group":  "SB-14001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-079.jpg",
+                          "title":  "SADDLE BAG - SB-14002",
+                          "original":  "2014\\SB-14002.jpg",
+                          "width":  1200,
+                          "height":  874,
+                          "model":  "SB-14002",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-14002"
+                                    ],
+                          "group":  "SB-14002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-084.jpg",
+                          "title":  "SADDLE BAG - SB-15002",
+                          "original":  "2015\\SB-15002-B.jpg",
+                          "width":  1200,
+                          "height":  679,
+                          "model":  "SB-15002",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-15002"
+                                    ],
+                          "group":  "SB-15002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-083.jpg",
+                          "title":  "SADDLE BAG - SB-15002",
+                          "original":  "2015\\SB-15002-B sides.jpg",
+                          "width":  1200,
+                          "height":  679,
+                          "model":  "SB-15002",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-15002"
+                                    ],
+                          "hideMeta":  true,
+                          "group":  "SB-15002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-086.jpg",
+                          "title":  "SADDLE BAG - SB-15003",
+                          "original":  "2015\\SB-15003-B1.jpg",
+                          "width":  1200,
+                          "height":  679,
+                          "model":  "SB-15003",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-15003"
+                                    ],
+                          "group":  "SB-15003"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-088.jpg",
+                          "title":  "SADDLE BAG - SB-15003",
+                          "original":  "2015\\SB-15003-B-sides.jpg",
+                          "width":  1200,
+                          "height":  679,
+                          "model":  "SB-15003",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-15003"
+                                    ],
+                          "hideMeta":  true,
+                          "group":  "SB-15003"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-112.jpg",
+                          "title":  "SADDLE BAG - SB-002",
+                          "original":  "alpha-one pic 舊照片\\SB -002.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "SB-002",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-002"
+                                    ],
+                          "group":  "SB-002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-113.jpg",
+                          "title":  "SADDLE BAG - SB-001",
+                          "original":  "alpha-one pic 舊照片\\SB-001.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "SB-001",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-001"
+                                    ],
+                          "group":  "SB-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-118.jpg",
+                          "title":  "SADDLE BAG - SB-005",
+                          "original":  "alpha-one pic 舊照片\\SB-005.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "SB-005",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "Catalog: SADDLE BAG",
+                                        "型號：SB-005"
+                                    ],
+                          "group":  "SB-005"
+                      }
+                  ]
+    },
+    {
+        "key":  "handle-bar-bag",
+        "titleZh":  "HANDLE BAR BAG / 車把包",
+        "titleEn":  "HANDLE BAR BAG",
+        "descriptionZh":  "依 Alpha-one 型錄整理的車把包。",
+        "descriptionEn":  "Handlebar bags from the Alpha-one catalog.",
+        "url":  "/products/handle-bar-bag/",
+        "cover":  "/images/products/gallery/product-015.jpg",
+        "count":  14,
+        "grouped":  true,
+        "groups":  [
+                       {
+                           "title":  "BB-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-101.jpg",
+                                             "title":  "HANDLE BAR BAG - BB-001",
+                                             "original":  "alpha-one pic 舊照片\\BB-001.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "BB-001",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：BB-001"
+                                                       ],
+                                             "group":  "BB-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "BB-002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-102.jpg",
+                                             "title":  "HANDLE BAR BAG - BB-002",
+                                             "original":  "alpha-one pic 舊照片\\BB-002.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "BB-002",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：BB-002"
+                                                       ],
+                                             "group":  "BB-002"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-123.jpg",
+                                             "title":  "HANDLE BAR BAG - BB-002",
+                                             "original":  "alpha-one新照片\\BB-002-back.JPG",
+                                             "width":  925,
+                                             "height":  900,
+                                             "model":  "BB-002",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：BB-002"
+                                                       ],
+                                             "group":  "BB-002"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-124.jpg",
+                                             "title":  "HANDLE BAR BAG - BB-002H",
+                                             "original":  "alpha-one新照片\\BB-002honey.JPG",
+                                             "width":  994,
+                                             "height":  900,
+                                             "model":  "BB-002H",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：BB-002H"
+                                                       ],
+                                             "group":  "BB-002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "LB-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-105.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-001",
+                                             "original":  "alpha-one pic 舊照片\\LB-001.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "LB-001",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-001"
+                                                       ],
+                                             "group":  "LB-001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-106.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-001",
+                                             "original":  "alpha-one pic 舊照片\\LB-001-new.jpg",
+                                             "width":  1200,
+                                             "height":  676,
+                                             "model":  "LB-001",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-001"
+                                                       ],
+                                             "group":  "LB-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "LB-002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-107.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-002",
+                                             "original":  "alpha-one pic 舊照片\\LB-002.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "LB-002",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-002"
+                                                       ],
+                                             "group":  "LB-002"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-108.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-002B",
+                                             "original":  "alpha-one pic 舊照片\\LB-002B.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "LB-002B",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-002B"
+                                                       ],
+                                             "group":  "LB-002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "LB-12001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-015.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-12001",
+                                             "original":  "2012 for new products\\上傳檔案for www\\LB-12001.JPG",
+                                             "width":  721,
+                                             "height":  480,
+                                             "model":  "LB-12001",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-12001"
+                                                       ],
+                                             "group":  "LB-12001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-049.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-12001",
+                                             "original":  "2013-taipei\\JPE\\LB-12001.jpg",
+                                             "width":  1107,
+                                             "height":  900,
+                                             "model":  "LB-12001",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-12001"
+                                                       ],
+                                             "group":  "LB-12001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "LB-13001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-025.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-13001",
+                                             "original":  "2013\\LB-13001 S 背面.JPG",
+                                             "width":  1200,
+                                             "height":  735,
+                                             "model":  "LB-13001",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-13001"
+                                                       ],
+                                             "group":  "LB-13001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-026.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-13001L",
+                                             "original":  "2013\\LB-13001L.JPG",
+                                             "width":  1200,
+                                             "height":  803,
+                                             "model":  "LB-13001L",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-13001L"
+                                                       ],
+                                             "group":  "LB-13001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "LB-13002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-027.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-13002S",
+                                             "original":  "2013\\LB-13002S 130114.JPG",
+                                             "width":  1200,
+                                             "height":  845,
+                                             "model":  "LB-13002S",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：LB-13002S"
+                                                       ],
+                                             "group":  "LB-13002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "MB-16001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-092.jpg",
+                                             "title":  "HANDLE BAR BAG - MB-16001",
+                                             "original":  "2016\\MB-16001-DW.jpg",
+                                             "width":  1200,
+                                             "height":  801,
+                                             "model":  "MB-16001",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "Catalog: HANDLE BAR BAG",
+                                                           "型號：MB-16001"
+                                                       ],
+                                             "group":  "MB-16001"
+                                         }
+                                     ]
+                       }
+                   ],
+        "items":  [
+                      {
+                          "src":  "/images/products/gallery/product-015.jpg",
+                          "title":  "HANDLE BAR BAG - LB-12001",
+                          "original":  "2012 for new products\\上傳檔案for www\\LB-12001.JPG",
+                          "width":  721,
+                          "height":  480,
+                          "model":  "LB-12001",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-12001"
+                                    ],
+                          "group":  "LB-12001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-025.jpg",
+                          "title":  "HANDLE BAR BAG - LB-13001",
+                          "original":  "2013\\LB-13001 S 背面.JPG",
+                          "width":  1200,
+                          "height":  735,
+                          "model":  "LB-13001",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-13001"
+                                    ],
+                          "group":  "LB-13001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-026.jpg",
+                          "title":  "HANDLE BAR BAG - LB-13001L",
+                          "original":  "2013\\LB-13001L.JPG",
+                          "width":  1200,
+                          "height":  803,
+                          "model":  "LB-13001L",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-13001L"
+                                    ],
+                          "group":  "LB-13001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-027.jpg",
+                          "title":  "HANDLE BAR BAG - LB-13002S",
+                          "original":  "2013\\LB-13002S 130114.JPG",
+                          "width":  1200,
+                          "height":  845,
+                          "model":  "LB-13002S",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-13002S"
+                                    ],
+                          "group":  "LB-13002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-049.jpg",
+                          "title":  "HANDLE BAR BAG - LB-12001",
+                          "original":  "2013-taipei\\JPE\\LB-12001.jpg",
+                          "width":  1107,
+                          "height":  900,
+                          "model":  "LB-12001",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-12001"
+                                    ],
+                          "group":  "LB-12001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-092.jpg",
+                          "title":  "HANDLE BAR BAG - MB-16001",
+                          "original":  "2016\\MB-16001-DW.jpg",
+                          "width":  1200,
+                          "height":  801,
+                          "model":  "MB-16001",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：MB-16001"
+                                    ],
+                          "group":  "MB-16001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-101.jpg",
+                          "title":  "HANDLE BAR BAG - BB-001",
+                          "original":  "alpha-one pic 舊照片\\BB-001.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "BB-001",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：BB-001"
+                                    ],
+                          "group":  "BB-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-102.jpg",
+                          "title":  "HANDLE BAR BAG - BB-002",
+                          "original":  "alpha-one pic 舊照片\\BB-002.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "BB-002",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：BB-002"
+                                    ],
+                          "group":  "BB-002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-105.jpg",
+                          "title":  "HANDLE BAR BAG - LB-001",
+                          "original":  "alpha-one pic 舊照片\\LB-001.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "LB-001",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-001"
+                                    ],
+                          "group":  "LB-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-106.jpg",
+                          "title":  "HANDLE BAR BAG - LB-001",
+                          "original":  "alpha-one pic 舊照片\\LB-001-new.jpg",
+                          "width":  1200,
+                          "height":  676,
+                          "model":  "LB-001",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-001"
+                                    ],
+                          "group":  "LB-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-107.jpg",
+                          "title":  "HANDLE BAR BAG - LB-002",
+                          "original":  "alpha-one pic 舊照片\\LB-002.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "LB-002",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-002"
+                                    ],
+                          "group":  "LB-002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-108.jpg",
+                          "title":  "HANDLE BAR BAG - LB-002B",
+                          "original":  "alpha-one pic 舊照片\\LB-002B.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "LB-002B",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：LB-002B"
+                                    ],
+                          "group":  "LB-002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-123.jpg",
+                          "title":  "HANDLE BAR BAG - BB-002",
+                          "original":  "alpha-one新照片\\BB-002-back.JPG",
+                          "width":  925,
+                          "height":  900,
+                          "model":  "BB-002",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：BB-002"
+                                    ],
+                          "group":  "BB-002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-124.jpg",
+                          "title":  "HANDLE BAR BAG - BB-002H",
+                          "original":  "alpha-one新照片\\BB-002honey.JPG",
+                          "width":  994,
+                          "height":  900,
+                          "model":  "BB-002H",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "Catalog: HANDLE BAR BAG",
+                                        "型號：BB-002H"
+                                    ],
+                          "group":  "BB-002"
+                      }
+                  ]
+    },
+    {
+        "key":  "grip-bar-tape",
+        "titleZh":  "GRIP / BAR TAPE / 握把與纏帶",
+        "titleEn":  "GRIP / BAR TAPE",
+        "descriptionZh":  "依 Alpha-one 型錄整理的握把、纏帶與端塞。",
+        "descriptionEn":  "Grips, bar tape, and plugs from the Alpha-one catalog.",
+        "url":  "/products/grip-bar-tape/",
+        "cover":  "/images/products/leather-grips/leather-grips-001.jpg",
+        "count":  23,
+        "grouped":  true,
+        "groups":  [
+                       {
+                           "title":  "BLC-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/leather-grips/leather-grips-006.jpg",
+                                             "title":  "END CAPS - BLC-001",
+                                             "original":  "alpha-one pic 舊照片\\BLC-001.jpg",
+                                             "width":  1181,
+                                             "height":  744,
+                                             "model":  "BLC-001",
+                                             "productType":  "END CAPS",
+                                             "specs":  [
+                                                           "分類：END CAPS / 尾蓋",
+                                                           "Catalog: END CAPS",
+                                                           "型號：BLC-001"
+                                                       ],
+                                             "group":  "BLC-001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-103.jpg",
+                                             "title":  "END CAPS - BLC-001",
+                                             "original":  "alpha-one pic 舊照片\\BLC-001.jpg",
+                                             "width":  1181,
+                                             "height":  744,
+                                             "model":  "BLC-001",
+                                             "productType":  "END CAPS",
+                                             "specs":  [
+                                                           "分類：END CAPS / 尾蓋",
+                                                           "Catalog: END CAPS",
+                                                           "型號：BLC-001"
+                                                       ],
+                                             "group":  "BLC-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "BLT-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/leather-grips/leather-grips-005.jpg",
+                                             "title":  "GRIP / BAR TAPE - BLT-001",
+                                             "original":  "alpha-one pic 舊照片\\BLT-001.jpg",
+                                             "width":  1200,
+                                             "height":  821,
+                                             "model":  "BLT-001",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：BLT-001"
+                                                       ],
+                                             "group":  "BLT-001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-104.jpg",
+                                             "title":  "GRIP / BAR TAPE - BLT-001",
+                                             "original":  "alpha-one pic 舊照片\\BLT-001.jpg",
+                                             "width":  1200,
+                                             "height":  821,
+                                             "model":  "BLT-001",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：BLT-001"
+                                                       ],
+                                             "group":  "BLT-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OG-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/leather-grips/leather-grips-001.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-001",
+                                             "original":  "2013-taipei\\JPE\\OG-001副本.jpg",
+                                             "width":  1200,
+                                             "height":  860,
+                                             "model":  "OG-001",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-001"
+                                                       ],
+                                             "group":  "OG-001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-054.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-001",
+                                             "original":  "2013-taipei\\JPE\\OG-001副本.jpg",
+                                             "width":  1200,
+                                             "height":  860,
+                                             "model":  "OG-001",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-001"
+                                                       ],
+                                             "group":  "OG-001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-076.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-001",
+                                             "original":  "2014\\OG-001 lined.JPG",
+                                             "width":  1200,
+                                             "height":  900,
+                                             "model":  "OG-001",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-001"
+                                                       ],
+                                             "group":  "OG-001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-109.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-001",
+                                             "original":  "alpha-one pic 舊照片\\OG-001.jpg",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "OG-001",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-001"
+                                                       ],
+                                             "group":  "OG-001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-110.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-001B",
+                                             "original":  "alpha-one pic 舊照片\\OG-001black.jpg",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "OG-001B",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-001B"
+                                                       ],
+                                             "group":  "OG-001"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-111.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-001H",
+                                             "original":  "alpha-one pic 舊照片\\OG-001honey.jpg",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "OG-001H",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-001H"
+                                                       ],
+                                             "group":  "OG-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OG-002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-125.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-002",
+                                             "original":  "alpha-one新照片\\OG-002.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "OG-002",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-002"
+                                                       ],
+                                             "group":  "OG-002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OG-003",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-126.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-003",
+                                             "original":  "alpha-one新照片\\OG-003.JPG",
+                                             "width":  1200,
+                                             "height":  671,
+                                             "model":  "OG-003",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-003"
+                                                       ],
+                                             "group":  "OG-003"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OG-004",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-127.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-004",
+                                             "original":  "alpha-one新照片\\OG-004.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "OG-004",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-004"
+                                                       ],
+                                             "group":  "OG-004"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OG-005",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/leather-grips/leather-grips-002.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-005",
+                                             "original":  "alpha-one新照片\\OG-005.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "OG-005",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-005"
+                                                       ],
+                                             "group":  "OG-005"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-055.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-005",
+                                             "original":  "2013-taipei\\JPE\\OG-005副本.jpg",
+                                             "width":  1200,
+                                             "height":  734,
+                                             "model":  "OG-005",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-005"
+                                                       ],
+                                             "group":  "OG-005"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-077.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-005",
+                                             "original":  "2014\\OG-005 lined.JPG",
+                                             "width":  1200,
+                                             "height":  900,
+                                             "model":  "OG-005",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-005"
+                                                       ],
+                                             "group":  "OG-005"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-128.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-005",
+                                             "original":  "alpha-one新照片\\OG-005.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "OG-005",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-005"
+                                                       ],
+                                             "group":  "OG-005"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OG-006",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/leather-grips/leather-grips-003.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-006",
+                                             "original":  "alpha-one新照片\\OG-006.JPG",
+                                             "width":  1200,
+                                             "height":  673,
+                                             "model":  "OG-006",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-006"
+                                                       ],
+                                             "group":  "OG-006"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-056.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-006",
+                                             "original":  "2013-taipei\\JPE\\OG-006副本.jpg",
+                                             "width":  1200,
+                                             "height":  673,
+                                             "model":  "OG-006",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-006"
+                                                       ],
+                                             "group":  "OG-006"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-129.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-006",
+                                             "original":  "alpha-one新照片\\OG-006.JPG",
+                                             "width":  1200,
+                                             "height":  673,
+                                             "model":  "OG-006",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-006"
+                                                       ],
+                                             "group":  "OG-006"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "OG-007",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/leather-grips/leather-grips-004.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-007",
+                                             "original":  "alpha-one新照片\\OG-007.JPG",
+                                             "width":  1200,
+                                             "height":  673,
+                                             "model":  "OG-007",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-007"
+                                                       ],
+                                             "group":  "OG-007"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-057.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-007",
+                                             "original":  "2013-taipei\\JPE\\OG-007副本.jpg",
+                                             "width":  1200,
+                                             "height":  688,
+                                             "model":  "OG-007",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-007"
+                                                       ],
+                                             "group":  "OG-007"
+                                         },
+                                         {
+                                             "src":  "/images/products/gallery/product-130.jpg",
+                                             "title":  "GRIP / BAR TAPE - OG-007",
+                                             "original":  "alpha-one新照片\\OG-007.JPG",
+                                             "width":  1200,
+                                             "height":  673,
+                                             "model":  "OG-007",
+                                             "productType":  "GRIP / BAR TAPE",
+                                             "specs":  [
+                                                           "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                                           "Catalog: GRIP / BAR TAPE",
+                                                           "型號：OG-007"
+                                                       ],
+                                             "group":  "OG-007"
+                                         }
+                                     ]
+                       }
+                   ],
+        "items":  [
+                      {
+                          "src":  "/images/products/leather-grips/leather-grips-001.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-001",
+                          "original":  "2013-taipei\\JPE\\OG-001副本.jpg",
+                          "width":  1200,
+                          "height":  860,
+                          "model":  "OG-001",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-001"
+                                    ],
+                          "group":  "OG-001"
+                      },
+                      {
+                          "src":  "/images/products/leather-grips/leather-grips-002.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-005",
+                          "original":  "alpha-one新照片\\OG-005.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "OG-005",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-005"
+                                    ],
+                          "group":  "OG-005"
+                      },
+                      {
+                          "src":  "/images/products/leather-grips/leather-grips-003.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-006",
+                          "original":  "alpha-one新照片\\OG-006.JPG",
+                          "width":  1200,
+                          "height":  673,
+                          "model":  "OG-006",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-006"
+                                    ],
+                          "group":  "OG-006"
+                      },
+                      {
+                          "src":  "/images/products/leather-grips/leather-grips-004.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-007",
+                          "original":  "alpha-one新照片\\OG-007.JPG",
+                          "width":  1200,
+                          "height":  673,
+                          "model":  "OG-007",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-007"
+                                    ],
+                          "group":  "OG-007"
+                      },
+                      {
+                          "src":  "/images/products/leather-grips/leather-grips-005.jpg",
+                          "title":  "GRIP / BAR TAPE - BLT-001",
+                          "original":  "alpha-one pic 舊照片\\BLT-001.jpg",
+                          "width":  1200,
+                          "height":  821,
+                          "model":  "BLT-001",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：BLT-001"
+                                    ],
+                          "group":  "BLT-001"
+                      },
+                      {
+                          "src":  "/images/products/leather-grips/leather-grips-006.jpg",
+                          "title":  "END CAPS - BLC-001",
+                          "original":  "alpha-one pic 舊照片\\BLC-001.jpg",
+                          "width":  1181,
+                          "height":  744,
+                          "model":  "BLC-001",
+                          "productType":  "END CAPS",
+                          "specs":  [
+                                        "分類：END CAPS / 尾蓋",
+                                        "Catalog: END CAPS",
+                                        "型號：BLC-001"
+                                    ],
+                          "group":  "BLC-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-054.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-001",
+                          "original":  "2013-taipei\\JPE\\OG-001副本.jpg",
+                          "width":  1200,
+                          "height":  860,
+                          "model":  "OG-001",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-001"
+                                    ],
+                          "group":  "OG-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-055.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-005",
+                          "original":  "2013-taipei\\JPE\\OG-005副本.jpg",
+                          "width":  1200,
+                          "height":  734,
+                          "model":  "OG-005",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-005"
+                                    ],
+                          "group":  "OG-005"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-056.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-006",
+                          "original":  "2013-taipei\\JPE\\OG-006副本.jpg",
+                          "width":  1200,
+                          "height":  673,
+                          "model":  "OG-006",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-006"
+                                    ],
+                          "group":  "OG-006"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-057.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-007",
+                          "original":  "2013-taipei\\JPE\\OG-007副本.jpg",
+                          "width":  1200,
+                          "height":  688,
+                          "model":  "OG-007",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-007"
+                                    ],
+                          "group":  "OG-007"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-076.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-001",
+                          "original":  "2014\\OG-001 lined.JPG",
+                          "width":  1200,
+                          "height":  900,
+                          "model":  "OG-001",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-001"
+                                    ],
+                          "group":  "OG-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-077.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-005",
+                          "original":  "2014\\OG-005 lined.JPG",
+                          "width":  1200,
+                          "height":  900,
+                          "model":  "OG-005",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-005"
+                                    ],
+                          "group":  "OG-005"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-103.jpg",
+                          "title":  "END CAPS - BLC-001",
+                          "original":  "alpha-one pic 舊照片\\BLC-001.jpg",
+                          "width":  1181,
+                          "height":  744,
+                          "model":  "BLC-001",
+                          "productType":  "END CAPS",
+                          "specs":  [
+                                        "分類：END CAPS / 尾蓋",
+                                        "Catalog: END CAPS",
+                                        "型號：BLC-001"
+                                    ],
+                          "group":  "BLC-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-104.jpg",
+                          "title":  "GRIP / BAR TAPE - BLT-001",
+                          "original":  "alpha-one pic 舊照片\\BLT-001.jpg",
+                          "width":  1200,
+                          "height":  821,
+                          "model":  "BLT-001",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：BLT-001"
+                                    ],
+                          "group":  "BLT-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-109.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-001",
+                          "original":  "alpha-one pic 舊照片\\OG-001.jpg",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "OG-001",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-001"
+                                    ],
+                          "group":  "OG-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-110.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-001B",
+                          "original":  "alpha-one pic 舊照片\\OG-001black.jpg",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "OG-001B",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-001B"
+                                    ],
+                          "group":  "OG-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-111.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-001H",
+                          "original":  "alpha-one pic 舊照片\\OG-001honey.jpg",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "OG-001H",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-001H"
+                                    ],
+                          "group":  "OG-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-125.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-002",
+                          "original":  "alpha-one新照片\\OG-002.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "OG-002",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-002"
+                                    ],
+                          "group":  "OG-002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-126.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-003",
+                          "original":  "alpha-one新照片\\OG-003.JPG",
+                          "width":  1200,
+                          "height":  671,
+                          "model":  "OG-003",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-003"
+                                    ],
+                          "group":  "OG-003"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-127.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-004",
+                          "original":  "alpha-one新照片\\OG-004.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "OG-004",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-004"
+                                    ],
+                          "group":  "OG-004"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-128.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-005",
+                          "original":  "alpha-one新照片\\OG-005.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "OG-005",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-005"
+                                    ],
+                          "group":  "OG-005"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-129.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-006",
+                          "original":  "alpha-one新照片\\OG-006.JPG",
+                          "width":  1200,
+                          "height":  673,
+                          "model":  "OG-006",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-006"
+                                    ],
+                          "group":  "OG-006"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-130.jpg",
+                          "title":  "GRIP / BAR TAPE - OG-007",
+                          "original":  "alpha-one新照片\\OG-007.JPG",
+                          "width":  1200,
+                          "height":  673,
+                          "model":  "OG-007",
+                          "productType":  "GRIP / BAR TAPE",
+                          "specs":  [
+                                        "分類：GRIP / BAR TAPE / 握把與纏帶",
+                                        "Catalog: GRIP / BAR TAPE",
+                                        "型號：OG-007"
+                                    ],
+                          "group":  "OG-007"
+                      }
+                  ]
+    },
+    {
+        "key":  "bottle-cage",
+        "titleZh":  "BOTTLE CAGE / 水壺架",
+        "titleEn":  "BOTTLE CAGE",
+        "descriptionZh":  "依 Alpha-one 型錄整理的水壺架。",
+        "descriptionEn":  "Bottle cages from the Alpha-one catalog.",
+        "url":  "/products/bottle-cage/",
+        "cover":  "/images/products/gallery/product-075.jpg",
+        "count":  3,
+        "grouped":  true,
+        "groups":  [
+                       {
+                           "title":  "BC-14001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-075.jpg",
+                                             "title":  "BOTTLE CAGE - BC-14001",
+                                             "original":  "2014\\BC-14001.jpg",
+                                             "width":  480,
+                                             "height":  640,
+                                             "model":  "BC-14001",
+                                             "productType":  "BOTTLE CAGE",
+                                             "specs":  [
+                                                           "分類：BOTTLE CAGE / 水壺架",
+                                                           "Catalog: BOTTLE CAGE",
+                                                           "型號：BC-14001"
+                                                       ],
+                                             "group":  "BC-14001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "BC-15001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-080.jpg",
+                                             "title":  "BOTTLE CAGE - BC-15001",
+                                             "original":  "2015\\BC-15001.jpg",
+                                             "width":  509,
+                                             "height":  900,
+                                             "model":  "BC-15001",
+                                             "productType":  "BOTTLE CAGE",
+                                             "specs":  [
+                                                           "分類：BOTTLE CAGE / 水壺架",
+                                                           "Catalog: BOTTLE CAGE",
+                                                           "型號：BC-15001"
+                                                       ],
+                                             "group":  "BC-15001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "BC-15002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-081.jpg",
+                                             "title":  "BOTTLE CAGE - BC-15002",
+                                             "original":  "2015\\BC-15002.jpg",
+                                             "width":  509,
+                                             "height":  900,
+                                             "model":  "BC-15002",
+                                             "productType":  "BOTTLE CAGE",
+                                             "specs":  [
+                                                           "分類：BOTTLE CAGE / 水壺架",
+                                                           "Catalog: BOTTLE CAGE",
+                                                           "型號：BC-15002"
+                                                       ],
+                                             "group":  "BC-15002"
+                                         }
+                                     ]
+                       }
+                   ],
+        "items":  [
+                      {
+                          "src":  "/images/products/gallery/product-075.jpg",
+                          "title":  "BOTTLE CAGE - BC-14001",
+                          "original":  "2014\\BC-14001.jpg",
+                          "width":  480,
+                          "height":  640,
+                          "model":  "BC-14001",
+                          "productType":  "BOTTLE CAGE",
+                          "specs":  [
+                                        "分類：BOTTLE CAGE / 水壺架",
+                                        "Catalog: BOTTLE CAGE",
+                                        "型號：BC-14001"
+                                    ],
+                          "group":  "BC-14001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-080.jpg",
+                          "title":  "BOTTLE CAGE - BC-15001",
+                          "original":  "2015\\BC-15001.jpg",
+                          "width":  509,
+                          "height":  900,
+                          "model":  "BC-15001",
+                          "productType":  "BOTTLE CAGE",
+                          "specs":  [
+                                        "分類：BOTTLE CAGE / 水壺架",
+                                        "Catalog: BOTTLE CAGE",
+                                        "型號：BC-15001"
+                                    ],
+                          "group":  "BC-15001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-081.jpg",
+                          "title":  "BOTTLE CAGE - BC-15002",
+                          "original":  "2015\\BC-15002.jpg",
+                          "width":  509,
+                          "height":  900,
+                          "model":  "BC-15002",
+                          "productType":  "BOTTLE CAGE",
+                          "specs":  [
+                                        "分類：BOTTLE CAGE / 水壺架",
+                                        "Catalog: BOTTLE CAGE",
+                                        "型號：BC-15002"
+                                    ],
+                          "group":  "BC-15002"
+                      }
+                  ]
+    },
+    {
+        "key":  "trunk-bag",
+        "titleZh":  "TRUNK BAG / 後座包",
+        "titleEn":  "TRUNK BAG",
+        "descriptionZh":  "依 Alpha-one 型錄整理的後座包。",
+        "descriptionEn":  "Trunk bags from the Alpha-one catalog.",
+        "url":  "/products/trunk-bag/",
+        "cover":  "/images/products/gallery/product-093.jpg",
+        "count":  2,
+        "grouped":  true,
+        "groups":  [
+                       {
+                           "title":  "TB-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-093.jpg",
+                                             "title":  "TRUNK BAG - TB-001",
+                                             "original":  "2016\\TB-001-FW.jpg",
+                                             "width":  1200,
+                                             "height":  645,
+                                             "model":  "TB-001",
+                                             "productType":  "TRUNK BAG",
+                                             "specs":  [
+                                                           "分類：TRUNK BAG / 後座包",
+                                                           "Catalog: TRUNK BAG",
+                                                           "型號：TB-001"
+                                                       ],
+                                             "group":  "TB-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "TB-002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-094.jpg",
+                                             "title":  "TRUNK BAG - TB-002",
+                                             "original":  "2016\\TB-002-FW.jpg",
+                                             "width":  1200,
+                                             "height":  515,
+                                             "model":  "TB-002",
+                                             "productType":  "TRUNK BAG",
+                                             "specs":  [
+                                                           "分類：TRUNK BAG / 後座包",
+                                                           "Catalog: TRUNK BAG",
+                                                           "型號：TB-002"
+                                                       ],
+                                             "group":  "TB-002"
+                                         }
+                                     ]
+                       }
+                   ],
+        "items":  [
+                      {
+                          "src":  "/images/products/gallery/product-093.jpg",
+                          "title":  "TRUNK BAG - TB-001",
+                          "original":  "2016\\TB-001-FW.jpg",
+                          "width":  1200,
+                          "height":  645,
+                          "model":  "TB-001",
+                          "productType":  "TRUNK BAG",
+                          "specs":  [
+                                        "分類：TRUNK BAG / 後座包",
+                                        "Catalog: TRUNK BAG",
+                                        "型號：TB-001"
+                                    ],
+                          "group":  "TB-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-094.jpg",
+                          "title":  "TRUNK BAG - TB-002",
+                          "original":  "2016\\TB-002-FW.jpg",
+                          "width":  1200,
+                          "height":  515,
+                          "model":  "TB-002",
+                          "productType":  "TRUNK BAG",
+                          "specs":  [
+                                        "分類：TRUNK BAG / 後座包",
+                                        "Catalog: TRUNK BAG",
+                                        "型號：TB-002"
+                                    ],
+                          "group":  "TB-002"
+                      }
+                  ]
+    },
+    {
+        "key":  "leg-strap",
+        "titleZh":  "LEG STRAP / 腿束帶",
+        "titleEn":  "LEG STRAP",
+        "descriptionZh":  "依 Alpha-one 型錄整理的腿束帶。",
+        "descriptionEn":  "Leg straps from the Alpha-one catalog.",
+        "url":  "/products/leg-strap/",
+        "cover":  "/images/products/gallery/product-082.jpg",
+        "count":  1,
+        "grouped":  true,
+        "groups":  [
+                       {
+                           "title":  "LS-15001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-082.jpg",
+                                             "title":  "LEG STRAP - LS-15001",
+                                             "original":  "2015\\LS-15001 packaging 151118.jpg",
+                                             "width":  667,
+                                             "height":  900,
+                                             "model":  "LS-15001",
+                                             "productType":  "LEG STRAP",
+                                             "specs":  [
+                                                           "分類：LEG STRAP / 腿束帶",
+                                                           "Catalog: LEG STRAP",
+                                                           "型號：LS-15001"
+                                                       ],
+                                             "group":  "LS-15001"
+                                         }
+                                     ]
+                       }
+                   ],
+        "items":  [
+                      {
+                          "src":  "/images/products/gallery/product-082.jpg",
+                          "title":  "LEG STRAP - LS-15001",
+                          "original":  "2015\\LS-15001 packaging 151118.jpg",
+                          "width":  667,
+                          "height":  900,
+                          "model":  "LS-15001",
+                          "productType":  "LEG STRAP",
+                          "specs":  [
+                                        "分類：LEG STRAP / 腿束帶",
+                                        "Catalog: LEG STRAP",
+                                        "型號：LS-15001"
+                                    ],
+                          "group":  "LS-15001"
+                      }
+                  ]
+    }
+]
