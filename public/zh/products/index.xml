@@ -1,1 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Products on 暢鴻實業</title><link>/zh/products/</link><description>Recent content in Products on 暢鴻實業</description><generator>Hugo</generator><language>zh-TW</language><atom:link href="/zh/products/index.xml" rel="self" type="application/rss+xml"/><item><title>BOTTLE CAGE / 水壺架</title><link>/zh/products/bottle-cage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh/products/bottle-cage/</guid><description/></item><item><title>GRIP / BAR TAPE / 握把與纏帶</title><link>/zh/products/grip-bar-tape/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh/products/grip-bar-tape/</guid><description/></item><item><title>HANDLE BAR BAG / 車把包</title><link>/zh/products/handle-bar-bag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh/products/handle-bar-bag/</guid><description/></item><item><title>LEG STRAP / 腿束帶</title><link>/zh/products/leg-strap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh/products/leg-strap/</guid><description/></item><item><title>SADDLE BAG / 座墊包</title><link>/zh/products/saddle-bag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh/products/saddle-bag/</guid><description/></item><item><title>SADDLES / 自行車座墊</title><link>/zh/products/saddles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh/products/saddles/</guid><description/></item><item><title>TRUNK BAG / 後座包</title><link>/zh/products/trunk-bag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh/products/trunk-bag/</guid><description/></item><item><title>UPPER TUBE BAG / 上管包</title><link>/zh/products/upper-tube-bag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/zh/products/upper-tube-bag/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Products on 暢鴻實業</title>
+    <link>/zh/products/</link>
+    <description>Recent content in Products on 暢鴻實業</description>
+    <generator>Hugo</generator>
+    <language>zh-TW</language>
+    <atom:link href="/zh/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BOTTLE CAGE / 水壺架</title>
+      <link>/zh/products/bottle-cage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/products/bottle-cage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GRIP / BAR TAPE / 握把與纏帶</title>
+      <link>/zh/products/grip-bar-tape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/products/grip-bar-tape/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HANDLE BAR BAG / 車把包</title>
+      <link>/zh/products/handle-bar-bag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/products/handle-bar-bag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LEG STRAP / 腿束帶</title>
+      <link>/zh/products/leg-strap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/products/leg-strap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SADDLE BAG / 座墊包</title>
+      <link>/zh/products/saddle-bag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/products/saddle-bag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SADDLES / 自行車座墊</title>
+      <link>/zh/products/saddles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/products/saddles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TRUNK BAG / 後座包</title>
+      <link>/zh/products/trunk-bag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/products/trunk-bag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UPPER TUBE BAG / 上管包</title>
+      <link>/zh/products/upper-tube-bag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/products/upper-tube-bag/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
