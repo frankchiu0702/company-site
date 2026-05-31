@@ -1269,7 +1269,7 @@
         "seoDescriptionEn":  "Leather bicycle grips, bar tape, and end caps for OEM / ODM manufacturing, export brands, distributors, and sourcing projects.",
         "url":  "/products/grip-bar-tape/",
         "cover":  "/images/products/gallery/product-109.jpg",
-        "count":  23,
+        "count":  11,
         "grouped":  true,
         "groups":  [
                        {
@@ -1661,6 +1661,51 @@
                                              "group":  "OG-007"
                                          }
                                      ]
+                       },
+                       {
+                           "title":  "BCC-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/bcc-001.png",
+                                             "title":  "CORK ENDS CAP - BCC-001",
+                                             "original":  "2019 catalog.pdf",
+                                             "width":  249,
+                                             "height":  416,
+                                             "model":  "BCC-001",
+                                             "productType":  "CORK ENDS CAP",
+                                             "specs":  [
+                                                           "分類：CORK ENDS CAP / 軟木尾蓋",
+                                                           "Catalog: CORK ENDS CAP",
+                                                           "型號：BCC-001",
+                                                           "Any size is possible",
+                                                           "Very light"
+                                                       ],
+                                             "group":  "BCC-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "WT-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/wt-001.png",
+                                             "title":  "WOVEN TAPE - WT-001",
+                                             "original":  "2019 catalog.pdf",
+                                             "width":  1398,
+                                             "height":  768,
+                                             "model":  "WT-001",
+                                             "productType":  "WOVEN TAPE",
+                                             "specs":  [
+                                                           "分類：WOVEN TAPE / 編織把帶",
+                                                           "Catalog: WOVEN TAPE",
+                                                           "型號：WT-001",
+                                                           "Spec: 2000mm*30mm",
+                                                           "Weight: 78 gram",
+                                                           "Thickness: 2.2mm~2.5mm"
+                                                       ],
+                                             "group":  "WT-001"
+                                         }
+                                     ]
                        }
                    ],
         "items":  [
@@ -2008,6 +2053,41 @@
                                         "型號：OG-007"
                                     ],
                           "group":  "OG-007"
+                      },
+                      {
+                          "src":  "/images/products/gallery/bcc-001.png",
+                          "title":  "CORK ENDS CAP - BCC-001",
+                          "original":  "2019 catalog.pdf",
+                          "width":  249,
+                          "height":  416,
+                          "model":  "BCC-001",
+                          "productType":  "CORK ENDS CAP",
+                          "specs":  [
+                                        "分類：CORK ENDS CAP / 軟木尾蓋",
+                                        "Catalog: CORK ENDS CAP",
+                                        "型號：BCC-001",
+                                        "Any size is possible",
+                                        "Very light"
+                                    ],
+                          "group":  "BCC-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/wt-001.png",
+                          "title":  "WOVEN TAPE - WT-001",
+                          "original":  "2019 catalog.pdf",
+                          "width":  1398,
+                          "height":  768,
+                          "model":  "WT-001",
+                          "productType":  "WOVEN TAPE",
+                          "specs":  [
+                                        "分類：WOVEN TAPE / 編織把帶",
+                                        "Catalog: WOVEN TAPE",
+                                        "型號：WT-001",
+                                        "Spec: 2000mm*30mm",
+                                        "Weight: 78 gram",
+                                        "Thickness: 2.2mm~2.5mm"
+                                    ],
+                          "group":  "WT-001"
                       }
                   ]
     },
@@ -2273,4 +2353,3 @@
                   ]
     }
 ]
-
