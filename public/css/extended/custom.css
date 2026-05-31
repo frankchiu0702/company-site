@@ -35,11 +35,11 @@ body::after {
   bottom: 0;
   z-index: 0;
   display: none;
-  width: max(110px, calc((100vw - 1180px) / 2));
+  width: max(0px, calc((100vw - 1180px) / 2 - 18px));
   background-position: center;
   background-size: cover;
   content: "";
-  opacity: 0.26;
+  opacity: 0.3;
   pointer-events: none;
 }
 
@@ -276,8 +276,7 @@ a {
   border-radius: 8px;
 }
 
-.intro::before,
-.intro::after {
+.intro::before {
   position: absolute;
   z-index: -1;
   border-radius: 8px;
@@ -289,16 +288,6 @@ a {
   background:
     linear-gradient(90deg, rgba(247, 246, 241, 0.96), rgba(247, 246, 241, 0.84) 44%, rgba(247, 246, 241, 0.98)),
     url("/images/backgrounds/leather-rolls.jpg") right center / cover no-repeat;
-}
-
-.intro::after {
-  right: 22px;
-  bottom: 44px;
-  width: min(360px, 38vw);
-  height: 230px;
-  background: url("/images/backgrounds/saddle-bag-closeup.jpg") center / cover no-repeat;
-  box-shadow: 0 18px 46px rgba(23, 32, 27, 0.18);
-  opacity: 0.42;
 }
 
 .split {
@@ -345,56 +334,7 @@ a {
 
 .product-section,
 .capability-section {
-  position: relative;
-  isolation: isolate;
-  overflow: hidden;
   border-top: 1px solid var(--line);
-}
-
-.product-section::before,
-.product-section::after,
-.capability-section::before,
-.capability-section::after {
-  position: absolute;
-  z-index: -1;
-  border-radius: 8px;
-  background-position: center;
-  background-size: cover;
-  box-shadow: 0 20px 48px rgba(23, 32, 27, 0.14);
-  content: "";
-  opacity: 0.36;
-}
-
-.product-section::before {
-  top: 150px;
-  left: -28px;
-  width: 260px;
-  height: 360px;
-  background-image: url("/images/backgrounds/front-basket-bag.jpg");
-}
-
-.product-section::after {
-  right: -30px;
-  bottom: 110px;
-  width: 275px;
-  height: 360px;
-  background-image: url("/images/backgrounds/upper-tube-bag.jpg");
-}
-
-.capability-section::before {
-  top: 128px;
-  left: -28px;
-  width: 245px;
-  height: 250px;
-  background-image: url("/images/backgrounds/leather-hardware.jpg");
-}
-
-.capability-section::after {
-  right: -30px;
-  bottom: 88px;
-  width: 270px;
-  height: 250px;
-  background-image: url("/images/backgrounds/stitching-machine.jpg");
 }
 
 .product-grid {
@@ -510,39 +450,7 @@ a {
 }
 
 .category-page {
-  position: relative;
-  isolation: isolate;
-  overflow: hidden;
   padding-top: 132px;
-}
-
-.category-page::before,
-.category-page::after {
-  position: absolute;
-  z-index: -1;
-  border-radius: 8px;
-  background-position: center;
-  background-size: cover;
-  box-shadow: 0 22px 54px rgba(23, 32, 27, 0.14);
-  content: "";
-  opacity: 0.34;
-  pointer-events: none;
-}
-
-.category-page::before {
-  top: 150px;
-  left: -30px;
-  width: 280px;
-  height: 380px;
-  background-image: url("/images/backgrounds/saddle-bag-closeup.jpg");
-}
-
-.category-page::after {
-  right: -30px;
-  bottom: 90px;
-  width: 290px;
-  height: 390px;
-  background-image: url("/images/backgrounds/leather-hardware.jpg");
 }
 
 .back-link {
@@ -579,9 +487,10 @@ a {
 
 .category-heading h1 {
   margin: 0;
-  font-size: clamp(2.2rem, 5vw, 4.5rem);
+  font-size: clamp(2.1rem, 4.35vw, 4.15rem);
   line-height: 1.05;
   letter-spacing: 0;
+  white-space: nowrap;
 }
 
 .category-heading p {
@@ -599,6 +508,7 @@ a {
   padding: 10px 14px;
   background: var(--white);
   color: var(--green-dark);
+  white-space: nowrap;
 }
 
 .content-page {
@@ -873,11 +783,32 @@ a {
 @media (max-width: 900px) {
   .header-inner {
     grid-template-columns: 1fr auto;
+    gap: 12px 18px;
+    padding: 10px 0;
     min-height: 66px;
   }
 
   .site-nav {
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: flex-start;
+    gap: 8px;
+    overflow-x: auto;
+    padding-bottom: 2px;
+    font-size: 0.84rem;
+    scrollbar-width: none;
+  }
+
+  .site-nav::-webkit-scrollbar {
     display: none;
+  }
+
+  .site-nav a {
+    flex: 0 0 auto;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 999px;
+    padding: 5px 11px;
+    background: rgba(255, 255, 255, 0.08);
   }
 
   .split,
@@ -977,6 +908,13 @@ a {
 
   .section-heading {
     display: block;
+  }
+
+  .category-heading h1 {
+    max-width: 100%;
+    font-size: clamp(1.75rem, 8vw, 2.35rem);
+    overflow-wrap: anywhere;
+    white-space: normal;
   }
 
   .contact-panel {
