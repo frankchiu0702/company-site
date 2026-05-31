@@ -20,11 +20,37 @@ html {
 }
 
 body {
+  position: relative;
   margin: 0;
   color: var(--ink);
   background: var(--paper);
   font-family: "Inter", "Noto Sans TC", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.6;
+}
+
+body::before,
+body::after {
+  position: fixed;
+  top: 78px;
+  bottom: 0;
+  z-index: 0;
+  display: none;
+  width: max(110px, calc((100vw - 1180px) / 2));
+  background-position: center;
+  background-size: cover;
+  content: "";
+  opacity: 0.26;
+  pointer-events: none;
+}
+
+body::before {
+  left: 0;
+  background-image: url("/images/backgrounds/leather-bottle-cage.jpg");
+}
+
+body::after {
+  right: 0;
+  background-image: url("/images/backgrounds/handlebar-bag-light.jpg");
 }
 
 a {
@@ -129,7 +155,7 @@ a {
 .hero-media {
   background:
     linear-gradient(135deg, rgba(10, 20, 16, 0.5), rgba(10, 20, 16, 0.18) 46%, rgba(10, 20, 16, 0.08)),
-    url("/images/hero.jpg") center / cover no-repeat,
+    url("/images/backgrounds/touring-bike-bag.jpg") center 58% / cover no-repeat,
     #173a2b;
   transform: scale(1.02);
 }
@@ -250,15 +276,29 @@ a {
   border-radius: 8px;
 }
 
-.intro::before {
+.intro::before,
+.intro::after {
   position: absolute;
-  inset: 22px 0;
   z-index: -1;
   border-radius: 8px;
+  content: "";
+}
+
+.intro::before {
+  inset: 22px 0;
   background:
     linear-gradient(90deg, rgba(247, 246, 241, 0.96), rgba(247, 246, 241, 0.84) 44%, rgba(247, 246, 241, 0.98)),
-    url("/images/hero.jpg") right center / cover no-repeat;
-  content: "";
+    url("/images/backgrounds/leather-rolls.jpg") right center / cover no-repeat;
+}
+
+.intro::after {
+  right: 22px;
+  bottom: 44px;
+  width: min(360px, 38vw);
+  height: 230px;
+  background: url("/images/backgrounds/saddle-bag-closeup.jpg") center / cover no-repeat;
+  box-shadow: 0 18px 46px rgba(23, 32, 27, 0.18);
+  opacity: 0.42;
 }
 
 .split {
@@ -305,7 +345,56 @@ a {
 
 .product-section,
 .capability-section {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
   border-top: 1px solid var(--line);
+}
+
+.product-section::before,
+.product-section::after,
+.capability-section::before,
+.capability-section::after {
+  position: absolute;
+  z-index: -1;
+  border-radius: 8px;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 20px 48px rgba(23, 32, 27, 0.14);
+  content: "";
+  opacity: 0.36;
+}
+
+.product-section::before {
+  top: 150px;
+  left: -28px;
+  width: 260px;
+  height: 360px;
+  background-image: url("/images/backgrounds/front-basket-bag.jpg");
+}
+
+.product-section::after {
+  right: -30px;
+  bottom: 110px;
+  width: 275px;
+  height: 360px;
+  background-image: url("/images/backgrounds/upper-tube-bag.jpg");
+}
+
+.capability-section::before {
+  top: 128px;
+  left: -28px;
+  width: 245px;
+  height: 250px;
+  background-image: url("/images/backgrounds/leather-hardware.jpg");
+}
+
+.capability-section::after {
+  right: -30px;
+  bottom: 88px;
+  width: 270px;
+  height: 250px;
+  background-image: url("/images/backgrounds/stitching-machine.jpg");
 }
 
 .product-grid {
@@ -421,7 +510,39 @@ a {
 }
 
 .category-page {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
   padding-top: 132px;
+}
+
+.category-page::before,
+.category-page::after {
+  position: absolute;
+  z-index: -1;
+  border-radius: 8px;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 22px 54px rgba(23, 32, 27, 0.14);
+  content: "";
+  opacity: 0.34;
+  pointer-events: none;
+}
+
+.category-page::before {
+  top: 150px;
+  left: -30px;
+  width: 280px;
+  height: 380px;
+  background-image: url("/images/backgrounds/saddle-bag-closeup.jpg");
+}
+
+.category-page::after {
+  right: -30px;
+  bottom: 90px;
+  width: 290px;
+  height: 390px;
+  background-image: url("/images/backgrounds/leather-hardware.jpg");
 }
 
 .back-link {
@@ -660,7 +781,7 @@ a {
   background:
     linear-gradient(90deg, rgba(12, 22, 18, 0.92), rgba(12, 22, 18, 0.72) 48%, rgba(12, 22, 18, 0.82)),
     linear-gradient(0deg, rgba(12, 22, 18, 0.45), rgba(12, 22, 18, 0.12)),
-    url("/images/hero.jpg") center / cover no-repeat,
+    url("/images/backgrounds/craft-workbench.jpg") center / cover no-repeat,
     var(--green-dark);
   color: var(--white);
   box-shadow: var(--shadow);
@@ -733,6 +854,20 @@ a {
   margin: 0 auto;
   padding: 26px 0;
   font-size: 0.92rem;
+}
+
+@media (min-width: 1180px) {
+  body::before,
+  body::after {
+    display: block;
+  }
+
+  .site-header,
+  main,
+  .footer {
+    position: relative;
+    z-index: 1;
+  }
 }
 
 @media (max-width: 900px) {

@@ -2,7 +2,20 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ .Description | default site.Params.description }}">
+  {{- $description := .Description | default site.Params.description -}}
+  {{- if .IsHome -}}
+    {{- $description = cond (eq site.Language.Lang "zh") "暢鴻實業專注自行車皮革配件、座墊、車包、握把與 OEM / ODM 客製製造，服務外銷品牌、通路商與採購團隊。" "CHANG HOUNG manufactures leather bicycle accessories, saddles, bags, grips, and custom OEM / ODM products for export brands and sourcing teams." -}}
+  {{- else if .Params.categoryKey -}}
+    {{- $category := index (where site.Data.product_categories "key" .Params.categoryKey) 0 -}}
+    {{- with $category -}}
+      {{- $description = cond (eq site.Language.Lang "zh") (.seoDescriptionZh | default .descriptionZh) (.seoDescriptionEn | default .descriptionEn) -}}
+    {{- end -}}
+  {{- else if and .IsSection (eq .Section "products") -}}
+    {{- $description = cond (eq site.Language.Lang "zh") "瀏覽暢鴻實業自行車配件產品系列，包含座墊、車包、皮革握把、車把纏帶、水壺架與腿束帶，支援 OEM / ODM 外銷採購。" "Explore CHANG HOUNG bicycle accessory product categories, including saddles, bags, leather grips, bar tape, bottle cages, and leg straps for OEM / ODM sourcing." -}}
+  {{- else if eq .Section "leather-care" -}}
+    {{- $description = cond (eq site.Language.Lang "zh") "了解自行車皮革配件的清潔、保養、上油與保存方式，協助皮革座墊、握把與車包維持良好狀態。" "Learn how to clean, condition, oil, and store leather bicycle accessories so saddles, grips, and bags stay in better condition." -}}
+  {{- end -}}
+  <meta name="description" content="{{ $description }}">
   <meta name="author" content="{{ site.Params.author }}">
   <link rel="icon" href="{{ "favicon.ico" | relURL }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
