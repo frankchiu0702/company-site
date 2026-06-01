@@ -25,8 +25,8 @@
                                              "productType":  "SADDLES",
                                              "specs":  [
                                                            "分類：SADDLES / 自行車座墊",
-                                                           "Catalog: SADDLES",
-                                                           "型號：OT-001"
+                                                           "型號：OT-001",
+                                                           "尺寸：29x15x7.5cm"
                                                        ],
                                              "group":  "OT-001"
                                          }
@@ -45,8 +45,8 @@
                                              "productType":  "SADDLES",
                                              "specs":  [
                                                            "分類：SADDLES / 自行車座墊",
-                                                           "Catalog: SADDLES",
-                                                           "型號：OT-12002"
+                                                           "型號：OT-12002",
+                                                           "尺寸：29x18x8cm"
                                                        ],
                                              "group":  "OT-12002"
                                          }
@@ -65,7 +65,6 @@
                                              "productType":  "SADDLES",
                                              "specs":  [
                                                            "分類：SADDLES / 自行車座墊",
-                                                           "Catalog: SADDLES",
                                                            "型號：OT-17012",
                                                            "尺寸：28 x 24 x 9 cm"
                                                        ],
@@ -86,7 +85,6 @@
                                              "productType":  "SADDLES",
                                              "specs":  [
                                                            "分類：SADDLES / 自行車座墊",
-                                                           "Catalog: SADDLES",
                                                            "型號：OT-17021"
                                                        ],
                                              "group":  "OT-17021"
@@ -106,7 +104,6 @@
                                              "productType":  "SADDLES",
                                              "specs":  [
                                                            "分類：SADDLES / 自行車座墊",
-                                                           "Catalog: SADDLES",
                                                            "型號：OT-17022"
                                                        ],
                                              "group":  "OT-17022"
@@ -126,7 +123,6 @@
                                              "productType":  "SADDLES",
                                              "specs":  [
                                                            "分類：SADDLES / 自行車座墊",
-                                                           "Catalog: SADDLES",
                                                            "型號：OT-17023"
                                                        ],
                                              "group":  "OT-17023"
@@ -145,7 +141,6 @@
                           "productType":  "SADDLES",
                           "specs":  [
                                         "分類：SADDLES / 自行車座墊",
-                                        "Catalog: SADDLES",
                                         "型號：OT-17012",
                                         "尺寸：28 x 24 x 9 cm"
                                     ],
@@ -161,7 +156,6 @@
                           "productType":  "SADDLES",
                           "specs":  [
                                         "分類：SADDLES / 自行車座墊",
-                                        "Catalog: SADDLES",
                                         "型號：OT-17021"
                                     ],
                           "group":  "OT-17021"
@@ -176,7 +170,6 @@
                           "productType":  "SADDLES",
                           "specs":  [
                                         "分類：SADDLES / 自行車座墊",
-                                        "Catalog: SADDLES",
                                         "型號：OT-17022"
                                     ],
                           "group":  "OT-17022"
@@ -191,7 +184,6 @@
                           "productType":  "SADDLES",
                           "specs":  [
                                         "分類：SADDLES / 自行車座墊",
-                                        "Catalog: SADDLES",
                                         "型號：OT-17023"
                                     ],
                           "group":  "OT-17023"
@@ -206,8 +198,8 @@
                           "productType":  "SADDLES",
                           "specs":  [
                                         "分類：SADDLES / 自行車座墊",
-                                        "Catalog: SADDLES",
-                                        "型號：OT-001"
+                                        "型號：OT-001",
+                                        "尺寸：29x15x7.5cm"
                                     ],
                           "group":  "OT-001"
                       },
@@ -221,8 +213,8 @@
                           "productType":  "SADDLES",
                           "specs":  [
                                         "分類：SADDLES / 自行車座墊",
-                                        "Catalog: SADDLES",
-                                        "型號：OT-12002"
+                                        "型號：OT-12002",
+                                        "尺寸：29x18x8cm"
                                     ],
                           "group":  "OT-12002"
                       }
@@ -238,7 +230,7 @@
         "seoDescriptionEn":  "Upper tube bag OEM / ODM manufacturing for bicycle brands, including leather bag development, sampling, production, and export sourcing support.",
         "url":  "/products/upper-tube-bag/",
         "cover":  "/images/products/gallery/product-020-cutout.png",
-        "count":  5,
+        "count":  4,
         "grouped":  true,
         "groups":  [
                        {
@@ -254,30 +246,10 @@
                                              "productType":  "UPPER TUBE BAG",
                                              "specs":  [
                                                            "分類：UPPER TUBE BAG / 上管包",
-                                                           "Catalog: UPPER TUBE BAG",
-                                                           "型號：UB-001"
+                                                           "型號：UB-001",
+                                                           "尺寸：17x6.5x10.5cm"
                                                        ],
                                              "group":  "UB-001"
-                                         }
-                                     ]
-                       },
-                       {
-                           "title":  "UB-002",
-                           "items":  [
-                                         {
-                                             "src":  "/images/products/gallery/product-122.jpg",
-                                             "title":  "UPPER TUBE BAG - UB-002",
-                                             "original":  "alpha-one pic 舊照片\\UB-002.JPG",
-                                             "width":  1200,
-                                             "height":  797,
-                                             "model":  "UB-002",
-                                             "productType":  "UPPER TUBE BAG",
-                                             "specs":  [
-                                                           "分類：UPPER TUBE BAG / 上管包",
-                                                           "Catalog: UPPER TUBE BAG",
-                                                           "型號：UB-002"
-                                                       ],
-                                             "group":  "UB-002"
                                          }
                                      ]
                        },
@@ -294,8 +266,8 @@
                                              "productType":  "UPPER TUBE BAG",
                                              "specs":  [
                                                            "分類：UPPER TUBE BAG / 上管包",
-                                                           "Catalog: UPPER TUBE BAG",
-                                                           "型號：UB-12002"
+                                                           "型號：UB-12002",
+                                                           "尺寸：18x10.5x16.8cm"
                                                        ],
                                              "group":  "UB-12002"
                                          }
@@ -314,8 +286,8 @@
                                              "productType":  "UPPER TUBE BAG",
                                              "specs":  [
                                                            "分類：UPPER TUBE BAG / 上管包",
-                                                           "Catalog: UPPER TUBE BAG",
-                                                           "型號：UB-13001"
+                                                           "型號：UB-13001",
+                                                           "尺寸：17.5x6.5x10.5cm"
                                                        ],
                                              "group":  "UB-13001"
                                          }
@@ -334,8 +306,9 @@
                                              "productType":  "UPPER TUBE BAG",
                                              "specs":  [
                                                            "分類：UPPER TUBE BAG / 上管包",
-                                                           "Catalog: UPPER TUBE BAG",
-                                                           "型號：UB-15001"
+                                                           "型號：UB-15001",
+                                                           "尺寸：upper part 19x6.5x11cm",
+                                                           "尺寸：bottom part 16x6.5x11cm"
                                                        ],
                                              "group":  "UB-15001"
                                          }
@@ -353,8 +326,8 @@
                           "productType":  "UPPER TUBE BAG",
                           "specs":  [
                                         "分類：UPPER TUBE BAG / 上管包",
-                                        "Catalog: UPPER TUBE BAG",
-                                        "型號：UB-12002"
+                                        "型號：UB-12002",
+                                        "尺寸：18x10.5x16.8cm"
                                     ],
                           "group":  "UB-12002"
                       },
@@ -368,8 +341,8 @@
                           "productType":  "UPPER TUBE BAG",
                           "specs":  [
                                         "分類：UPPER TUBE BAG / 上管包",
-                                        "Catalog: UPPER TUBE BAG",
-                                        "型號：UB-13001"
+                                        "型號：UB-13001",
+                                        "尺寸：17.5x6.5x10.5cm"
                                     ],
                           "group":  "UB-13001"
                       },
@@ -383,8 +356,9 @@
                           "productType":  "UPPER TUBE BAG",
                           "specs":  [
                                         "分類：UPPER TUBE BAG / 上管包",
-                                        "Catalog: UPPER TUBE BAG",
-                                        "型號：UB-15001"
+                                        "型號：UB-15001",
+                                        "尺寸：upper part 19x6.5x11cm",
+                                        "尺寸：bottom part 16x6.5x11cm"
                                     ],
                           "group":  "UB-15001"
                       },
@@ -398,25 +372,10 @@
                           "productType":  "UPPER TUBE BAG",
                           "specs":  [
                                         "分類：UPPER TUBE BAG / 上管包",
-                                        "Catalog: UPPER TUBE BAG",
-                                        "型號：UB-001"
+                                        "型號：UB-001",
+                                        "尺寸：17x6.5x10.5cm"
                                     ],
                           "group":  "UB-001"
-                      },
-                      {
-                          "src":  "/images/products/gallery/product-122.jpg",
-                          "title":  "UPPER TUBE BAG - UB-002",
-                          "original":  "alpha-one pic 舊照片\\UB-002.JPG",
-                          "width":  1200,
-                          "height":  797,
-                          "model":  "UB-002",
-                          "productType":  "UPPER TUBE BAG",
-                          "specs":  [
-                                        "分類：UPPER TUBE BAG / 上管包",
-                                        "Catalog: UPPER TUBE BAG",
-                                        "型號：UB-002"
-                                    ],
-                          "group":  "UB-002"
                       }
                   ]
     },
@@ -430,7 +389,7 @@
         "seoDescriptionEn":  "Saddle bag and leather bicycle bag OEM / ODM manufacturing with multiple sizes, material options, and export-focused custom development.",
         "url":  "/products/saddle-bag/",
         "cover":  "/images/products/gallery/product-009-cutout.png",
-        "count":  15,
+        "count":  19,
         "grouped":  true,
         "groups":  [
                        {
@@ -446,8 +405,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-001"
+                                                           "型號：SB-001",
+                                                           "尺寸：18x18.5x10cm"
                                                        ],
                                              "group":  "SB-001"
                                          }
@@ -466,8 +425,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-002"
+                                                           "型號：SB-002",
+                                                           "尺寸：20x12x11cm"
                                                        ],
                                              "group":  "SB-002"
                                          }
@@ -486,8 +445,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-005"
+                                                           "型號：SB-005",
+                                                           "尺寸：18x18.5x10cm"
                                                        ],
                                              "group":  "SB-005"
                                          }
@@ -506,9 +465,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
                                                            "型號：SB-12004",
-                                                           "尺寸：L"
+                                                           "尺寸：19.3x11.5x10cm"
                                                        ],
                                              "group":  "SB-12004 L"
                                          }
@@ -527,9 +485,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
                                                            "型號：SB-12004",
-                                                           "尺寸：M"
+                                                           "尺寸：14.5x11.5x10.5cm"
                                                        ],
                                              "group":  "SB-12004 M"
                                          }
@@ -548,9 +505,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
                                                            "型號：SB-12004",
-                                                           "尺寸：S"
+                                                           "尺寸：11.8x9.5x6.9cm"
                                                        ],
                                              "group":  "SB-12004 S"
                                          }
@@ -569,8 +525,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-12006"
+                                                           "型號：SB-12006",
+                                                           "尺寸：16x16x20.9cm"
                                                        ],
                                              "group":  "SB-12006"
                                          }
@@ -589,8 +545,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-13003"
+                                                           "型號：SB-13003",
+                                                           "尺寸：17.5x6.5x10.5cm"
                                                        ],
                                              "group":  "SB-13003"
                                          }
@@ -609,7 +565,6 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
                                                            "型號：SB-14001"
                                                        ],
                                              "group":  "SB-14001"
@@ -629,7 +584,6 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
                                                            "型號：SB-14002"
                                                        ],
                                              "group":  "SB-14002"
@@ -649,8 +603,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-15001"
+                                                           "型號：SB-15001",
+                                                           "尺寸：16x10x5.5cm"
                                                        ],
                                              "group":  "SB-15001"
                                          }
@@ -669,8 +623,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-15002"
+                                                           "型號：SB-15002",
+                                                           "尺寸：20x12x11cm"
                                                        ],
                                              "group":  "SB-15002"
                                          },
@@ -684,8 +638,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-15002"
+                                                           "型號：SB-15002",
+                                                           "尺寸：20x12x11cm"
                                                        ],
                                              "hideMeta":  true,
                                              "group":  "SB-15002"
@@ -705,8 +659,8 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-15003"
+                                                           "型號：SB-15003",
+                                                           "尺寸：19x5.5x11cm"
                                                        ],
                                              "group":  "SB-15003"
                                          },
@@ -720,11 +674,91 @@
                                              "productType":  "SADDLE BAG",
                                              "specs":  [
                                                            "分類：SADDLE BAG / 座墊包",
-                                                           "Catalog: SADDLE BAG",
-                                                           "型號：SB-15003"
+                                                           "型號：SB-15003",
+                                                           "尺寸：19x5.5x11cm"
                                                        ],
                                              "hideMeta":  true,
                                              "group":  "SB-15003"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "TB-001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-093.jpg",
+                                             "title":  "SADDLE BAG - TB-001",
+                                             "original":  "2016\\TB-001-FW.jpg",
+                                             "width":  1200,
+                                             "height":  645,
+                                             "model":  "TB-001",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "型號：TB-001",
+                                                           "尺寸：21.5x9x9cm"
+                                                       ],
+                                             "group":  "TB-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "TB-002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-094.jpg",
+                                             "title":  "SADDLE BAG - TB-002",
+                                             "original":  "2016\\TB-002-FW.jpg",
+                                             "width":  1200,
+                                             "height":  515,
+                                             "model":  "TB-002",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "型號：TB-002",
+                                                           "尺寸：30.8x13.5x6.5cm"
+                                                       ],
+                                             "group":  "TB-002"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-13001",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/sb-13001-catalog.jpg",
+                                             "title":  "SADDLE BAG - SB-13001",
+                                             "original":  "2013-taipei\\JPE\\SB-13001.jpg",
+                                             "width":  1181,
+                                             "height":  844,
+                                             "model":  "SB-13001",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "型號：SB-13001",
+                                                           "尺寸：18x8.5x10cm"
+                                                       ],
+                                             "group":  "SB-13001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "SB-13002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/sb-13002-catalog.jpg",
+                                             "title":  "SADDLE BAG - SB-13002",
+                                             "original":  "2013-taipei\\JPE\\SB-13002.jpg",
+                                             "width":  1181,
+                                             "height":  897,
+                                             "model":  "SB-13002",
+                                             "productType":  "SADDLE BAG",
+                                             "specs":  [
+                                                           "分類：SADDLE BAG / 座墊包",
+                                                           "型號：SB-13002",
+                                                           "尺寸：18x8.5x10cm"
+                                                       ],
+                                             "group":  "SB-13002"
                                          }
                                      ]
                        }
@@ -740,9 +774,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
                                         "型號：SB-12004",
-                                        "尺寸：L"
+                                        "尺寸：19.3x11.5x10cm"
                                     ],
                           "group":  "SB-12004 L"
                       },
@@ -756,9 +789,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
                                         "型號：SB-12004",
-                                        "尺寸：M"
+                                        "尺寸：14.5x11.5x10.5cm"
                                     ],
                           "group":  "SB-12004 M"
                       },
@@ -772,9 +804,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
                                         "型號：SB-12004",
-                                        "尺寸：S"
+                                        "尺寸：11.8x9.5x6.9cm"
                                     ],
                           "group":  "SB-12004 S"
                       },
@@ -788,8 +819,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-12006"
+                                        "型號：SB-12006",
+                                        "尺寸：16x16x20.9cm"
                                     ],
                           "group":  "SB-12006"
                       },
@@ -803,8 +834,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-13003"
+                                        "型號：SB-13003",
+                                        "尺寸：17.5x6.5x10.5cm"
                                     ],
                           "group":  "SB-13003"
                       },
@@ -818,8 +849,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-15001"
+                                        "型號：SB-15001",
+                                        "尺寸：16x10x5.5cm"
                                     ],
                           "group":  "SB-15001"
                       },
@@ -833,7 +864,6 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
                                         "型號：SB-14001"
                                     ],
                           "group":  "SB-14001"
@@ -848,7 +878,6 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
                                         "型號：SB-14002"
                                     ],
                           "group":  "SB-14002"
@@ -863,8 +892,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-15002"
+                                        "型號：SB-15002",
+                                        "尺寸：20x12x11cm"
                                     ],
                           "group":  "SB-15002"
                       },
@@ -878,8 +907,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-15002"
+                                        "型號：SB-15002",
+                                        "尺寸：20x12x11cm"
                                     ],
                           "hideMeta":  true,
                           "group":  "SB-15002"
@@ -894,8 +923,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-15003"
+                                        "型號：SB-15003",
+                                        "尺寸：19x5.5x11cm"
                                     ],
                           "group":  "SB-15003"
                       },
@@ -909,8 +938,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-15003"
+                                        "型號：SB-15003",
+                                        "尺寸：19x5.5x11cm"
                                     ],
                           "hideMeta":  true,
                           "group":  "SB-15003"
@@ -925,8 +954,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-002"
+                                        "型號：SB-002",
+                                        "尺寸：20x12x11cm"
                                     ],
                           "group":  "SB-002"
                       },
@@ -940,8 +969,8 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-001"
+                                        "型號：SB-001",
+                                        "尺寸：18x18.5x10cm"
                                     ],
                           "group":  "SB-001"
                       },
@@ -955,10 +984,70 @@
                           "productType":  "SADDLE BAG",
                           "specs":  [
                                         "分類：SADDLE BAG / 座墊包",
-                                        "Catalog: SADDLE BAG",
-                                        "型號：SB-005"
+                                        "型號：SB-005",
+                                        "尺寸：18x18.5x10cm"
                                     ],
                           "group":  "SB-005"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-093.jpg",
+                          "title":  "SADDLE BAG - TB-001",
+                          "original":  "2016\\TB-001-FW.jpg",
+                          "width":  1200,
+                          "height":  645,
+                          "model":  "TB-001",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "型號：TB-001",
+                                        "尺寸：21.5x9x9cm"
+                                    ],
+                          "group":  "TB-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-094.jpg",
+                          "title":  "SADDLE BAG - TB-002",
+                          "original":  "2016\\TB-002-FW.jpg",
+                          "width":  1200,
+                          "height":  515,
+                          "model":  "TB-002",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "型號：TB-002",
+                                        "尺寸：30.8x13.5x6.5cm"
+                                    ],
+                          "group":  "TB-002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/sb-13001-catalog.jpg",
+                          "title":  "SADDLE BAG - SB-13001",
+                          "original":  "2013-taipei\\JPE\\SB-13001.jpg",
+                          "width":  1181,
+                          "height":  844,
+                          "model":  "SB-13001",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "型號：SB-13001",
+                                        "尺寸：18x8.5x10cm"
+                                    ],
+                          "group":  "SB-13001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/sb-13002-catalog.jpg",
+                          "title":  "SADDLE BAG - SB-13002",
+                          "original":  "2013-taipei\\JPE\\SB-13002.jpg",
+                          "width":  1181,
+                          "height":  897,
+                          "model":  "SB-13002",
+                          "productType":  "SADDLE BAG",
+                          "specs":  [
+                                        "分類：SADDLE BAG / 座墊包",
+                                        "型號：SB-13002",
+                                        "尺寸：18x8.5x10cm"
+                                    ],
+                          "group":  "SB-13002"
                       }
                   ]
     },
@@ -976,46 +1065,6 @@
         "grouped":  true,
         "groups":  [
                        {
-                           "title":  "BB-001",
-                           "items":  [
-                                         {
-                                             "src":  "/images/products/gallery/product-101.jpg",
-                                             "title":  "HANDLE BAR BAG - BB-001",
-                                             "original":  "alpha-one pic 舊照片\\BB-001.JPG",
-                                             "width":  1200,
-                                             "height":  797,
-                                             "model":  "BB-001",
-                                             "productType":  "HANDLE BAR BAG",
-                                             "specs":  [
-                                                           "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：BB-001"
-                                                       ],
-                                             "group":  "BB-001"
-                                         }
-                                     ]
-                       },
-                       {
-                           "title":  "BB-002",
-                           "items":  [
-                                         {
-                                             "src":  "/images/products/gallery/product-102.jpg",
-                                             "title":  "HANDLE BAR BAG - BB-002",
-                                             "original":  "alpha-one pic 舊照片\\BB-002.JPG",
-                                             "width":  1200,
-                                             "height":  797,
-                                             "model":  "BB-002",
-                                             "productType":  "HANDLE BAR BAG",
-                                             "specs":  [
-                                                           "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：BB-002"
-                                                       ],
-                                             "group":  "BB-002"
-                                         }
-                                     ]
-                       },
-                       {
                            "title":  "LB-001",
                            "items":  [
                                          {
@@ -1028,7 +1077,6 @@
                                              "productType":  "HANDLE BAR BAG",
                                              "specs":  [
                                                            "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
                                                            "型號：LB-001"
                                                        ],
                                              "group":  "LB-001"
@@ -1048,7 +1096,6 @@
                                              "productType":  "HANDLE BAR BAG",
                                              "specs":  [
                                                            "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
                                                            "型號：LB-002"
                                                        ],
                                              "group":  "LB-002"
@@ -1068,8 +1115,8 @@
                                              "productType":  "HANDLE BAR BAG",
                                              "specs":  [
                                                            "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：LB-12001"
+                                                           "型號：LB-12001",
+                                                           "尺寸：27.8x25x12.3cm"
                                                        ],
                                              "group":  "LB-12001"
                                          }
@@ -1088,8 +1135,8 @@
                                              "productType":  "HANDLE BAR BAG",
                                              "specs":  [
                                                            "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：LB-13001L"
+                                                           "型號：LB-13001L",
+                                                           "尺寸：33x10.5x17cm"
                                                        ],
                                              "group":  "LB-13001"
                                          }
@@ -1108,30 +1155,70 @@
                                              "productType":  "HANDLE BAR BAG",
                                              "specs":  [
                                                            "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：LB-13002S"
+                                                           "型號：LB-13002S",
+                                                           "尺寸：27x10.5x17cm"
                                                        ],
                                              "group":  "LB-13002"
                                          }
                                      ]
                        },
                        {
-                           "title":  "MB-16001",
+                           "title":  "LB-12001C",
                            "items":  [
                                          {
-                                             "src":  "/images/products/gallery/product-092.jpg",
-                                             "title":  "HANDLE BAR BAG - MB-16001",
-                                             "original":  "2016\\MB-16001-DW.jpg",
-                                             "width":  1200,
-                                             "height":  801,
-                                             "model":  "MB-16001",
+                                             "src":  "/images/products/gallery/lb-12001c-catalog.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-12001C",
+                                             "original":  "2013-taipei\\JPE\\LB-12001C.jpg",
+                                             "width":  1181,
+                                             "height":  1181,
+                                             "model":  "LB-12001C",
                                              "productType":  "HANDLE BAR BAG",
                                              "specs":  [
                                                            "分類：HANDLE BAR BAG / 車把包",
-                                                           "Catalog: HANDLE BAR BAG",
-                                                           "型號：MB-16001"
+                                                           "型號：LB-12001C",
+                                                           "尺寸：27.8x25x12.3cm"
                                                        ],
-                                             "group":  "MB-16001"
+                                             "group":  "LB-12001C"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "LB-13001S",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/lb-13001s-catalog.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-13001S",
+                                             "original":  "2013-taipei\\JPE\\LB-13001S.jpg",
+                                             "width":  1181,
+                                             "height":  954,
+                                             "model":  "LB-13001S",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "型號：LB-13001S",
+                                                           "尺寸：27x10.5x17cm"
+                                                       ],
+                                             "group":  "LB-13001S"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "LB-13002L",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/lb-13002l-catalog.jpg",
+                                             "title":  "HANDLE BAR BAG - LB-13002L",
+                                             "original":  "2013-taipei\\JPE\\LB-13002L.jpg",
+                                             "width":  1181,
+                                             "height":  876,
+                                             "model":  "LB-13002L",
+                                             "productType":  "HANDLE BAR BAG",
+                                             "specs":  [
+                                                           "分類：HANDLE BAR BAG / 車把包",
+                                                           "型號：LB-13002L",
+                                                           "尺寸：33x10.5x17cm"
+                                                       ],
+                                             "group":  "LB-13002L"
                                          }
                                      ]
                        }
@@ -1147,8 +1234,8 @@
                           "productType":  "HANDLE BAR BAG",
                           "specs":  [
                                         "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：LB-13001L"
+                                        "型號：LB-13001L",
+                                        "尺寸：33x10.5x17cm"
                                     ],
                           "group":  "LB-13001"
                       },
@@ -1162,8 +1249,8 @@
                           "productType":  "HANDLE BAR BAG",
                           "specs":  [
                                         "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：LB-13002S"
+                                        "型號：LB-13002S",
+                                        "尺寸：27x10.5x17cm"
                                     ],
                           "group":  "LB-13002"
                       },
@@ -1177,55 +1264,10 @@
                           "productType":  "HANDLE BAR BAG",
                           "specs":  [
                                         "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：LB-12001"
+                                        "型號：LB-12001",
+                                        "尺寸：27.8x25x12.3cm"
                                     ],
                           "group":  "LB-12001"
-                      },
-                      {
-                          "src":  "/images/products/gallery/product-092.jpg",
-                          "title":  "HANDLE BAR BAG - MB-16001",
-                          "original":  "2016\\MB-16001-DW.jpg",
-                          "width":  1200,
-                          "height":  801,
-                          "model":  "MB-16001",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：MB-16001"
-                                    ],
-                          "group":  "MB-16001"
-                      },
-                      {
-                          "src":  "/images/products/gallery/product-101.jpg",
-                          "title":  "HANDLE BAR BAG - BB-001",
-                          "original":  "alpha-one pic 舊照片\\BB-001.JPG",
-                          "width":  1200,
-                          "height":  797,
-                          "model":  "BB-001",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：BB-001"
-                                    ],
-                          "group":  "BB-001"
-                      },
-                      {
-                          "src":  "/images/products/gallery/product-102.jpg",
-                          "title":  "HANDLE BAR BAG - BB-002",
-                          "original":  "alpha-one pic 舊照片\\BB-002.JPG",
-                          "width":  1200,
-                          "height":  797,
-                          "model":  "BB-002",
-                          "productType":  "HANDLE BAR BAG",
-                          "specs":  [
-                                        "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
-                                        "型號：BB-002"
-                                    ],
-                          "group":  "BB-002"
                       },
                       {
                           "src":  "/images/products/gallery/product-105.jpg",
@@ -1237,7 +1279,6 @@
                           "productType":  "HANDLE BAR BAG",
                           "specs":  [
                                         "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
                                         "型號：LB-001"
                                     ],
                           "group":  "LB-001"
@@ -1252,10 +1293,54 @@
                           "productType":  "HANDLE BAR BAG",
                           "specs":  [
                                         "分類：HANDLE BAR BAG / 車把包",
-                                        "Catalog: HANDLE BAR BAG",
                                         "型號：LB-002"
                                     ],
                           "group":  "LB-002"
+                      },
+                      {
+                          "src":  "/images/products/gallery/lb-12001c-catalog.jpg",
+                          "title":  "HANDLE BAR BAG - LB-12001C",
+                          "original":  "2013-taipei\\JPE\\LB-12001C.jpg",
+                          "width":  1181,
+                          "height":  1181,
+                          "model":  "LB-12001C",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "型號：LB-12001C",
+                                        "尺寸：27.8x25x12.3cm"
+                                    ],
+                          "group":  "LB-12001C"
+                      },
+                      {
+                          "src":  "/images/products/gallery/lb-13001s-catalog.jpg",
+                          "title":  "HANDLE BAR BAG - LB-13001S",
+                          "original":  "2013-taipei\\JPE\\LB-13001S.jpg",
+                          "width":  1181,
+                          "height":  954,
+                          "model":  "LB-13001S",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "型號：LB-13001S",
+                                        "尺寸：27x10.5x17cm"
+                                    ],
+                          "group":  "LB-13001S"
+                      },
+                      {
+                          "src":  "/images/products/gallery/lb-13002l-catalog.jpg",
+                          "title":  "HANDLE BAR BAG - LB-13002L",
+                          "original":  "2013-taipei\\JPE\\LB-13002L.jpg",
+                          "width":  1181,
+                          "height":  876,
+                          "model":  "LB-13002L",
+                          "productType":  "HANDLE BAR BAG",
+                          "specs":  [
+                                        "分類：HANDLE BAR BAG / 車把包",
+                                        "型號：LB-13002L",
+                                        "尺寸：33x10.5x17cm"
+                                    ],
+                          "group":  "LB-13002L"
                       }
                   ]
     },
@@ -1269,7 +1354,7 @@
         "seoDescriptionEn":  "Leather bicycle grips, bar tape, and end caps for OEM / ODM manufacturing, export brands, distributors, and sourcing projects.",
         "url":  "/products/grip-bar-tape/",
         "cover":  "/images/products/gallery/product-109.jpg",
-        "count":  11,
+        "count":  25,
         "grouped":  true,
         "groups":  [
                        {
@@ -1285,7 +1370,6 @@
                                              "productType":  "END CAPS",
                                              "specs":  [
                                                            "分類：END CAPS / 尾蓋",
-                                                           "Catalog: END CAPS",
                                                            "型號：BLC-001"
                                                        ],
                                              "group":  "BLC-001"
@@ -1300,7 +1384,6 @@
                                              "productType":  "END CAPS",
                                              "specs":  [
                                                            "分類：END CAPS / 尾蓋",
-                                                           "Catalog: END CAPS",
                                                            "型號：BLC-001"
                                                        ],
                                              "group":  "BLC-001"
@@ -1320,8 +1403,8 @@
                                              "productType":  "TAPES",
                                              "specs":  [
                                                            "分類：TAPES / 手把帶",
-                                                           "Catalog: TAPES",
-                                                           "型號：BLT-001"
+                                                           "型號：BLT-001",
+                                                           "尺寸：2000x30mm"
                                                        ],
                                              "group":  "BLT-001"
                                          },
@@ -1335,8 +1418,8 @@
                                              "productType":  "TAPES",
                                              "specs":  [
                                                            "分類：TAPES / 手把帶",
-                                                           "Catalog: TAPES",
-                                                           "型號：BLT-001"
+                                                           "型號：BLT-001",
+                                                           "尺寸：2000x30mm"
                                                        ],
                                              "group":  "BLT-001"
                                          }
@@ -1355,8 +1438,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-001"
+                                                           "型號：OG-001",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-001"
                                          },
@@ -1370,8 +1454,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-001"
+                                                           "型號：OG-001",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-001"
                                          },
@@ -1385,8 +1470,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-001"
+                                                           "型號：OG-001",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-001"
                                          },
@@ -1400,8 +1486,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-001"
+                                                           "型號：OG-001",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-001"
                                          },
@@ -1415,8 +1502,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-001B"
+                                                           "型號：OG-001B",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-001"
                                          },
@@ -1430,8 +1518,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-001H"
+                                                           "型號：OG-001H",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-001"
                                          }
@@ -1450,7 +1539,6 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
                                                            "型號：OG-002"
                                                        ],
                                              "group":  "OG-002"
@@ -1470,7 +1558,6 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
                                                            "型號：OG-003"
                                                        ],
                                              "group":  "OG-003"
@@ -1490,7 +1577,6 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
                                                            "型號：OG-004"
                                                        ],
                                              "group":  "OG-004"
@@ -1510,8 +1596,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-005"
+                                                           "型號：OG-005",
+                                                           "尺寸：Right 130mm/90mm",
+                                                           "尺寸：Left 130mm/90mm"
                                                        ],
                                              "group":  "OG-005"
                                          },
@@ -1525,8 +1612,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-005"
+                                                           "型號：OG-005",
+                                                           "尺寸：Right 130mm/90mm",
+                                                           "尺寸：Left 130mm/90mm"
                                                        ],
                                              "group":  "OG-005"
                                          },
@@ -1540,8 +1628,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-005"
+                                                           "型號：OG-005",
+                                                           "尺寸：Right 130mm/90mm",
+                                                           "尺寸：Left 130mm/90mm"
                                                        ],
                                              "group":  "OG-005"
                                          },
@@ -1555,8 +1644,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-005"
+                                                           "型號：OG-005",
+                                                           "尺寸：Right 130mm/90mm",
+                                                           "尺寸：Left 130mm/90mm"
                                                        ],
                                              "group":  "OG-005"
                                          }
@@ -1575,8 +1665,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-006"
+                                                           "型號：OG-006",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-006"
                                          },
@@ -1590,8 +1681,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-006"
+                                                           "型號：OG-006",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-006"
                                          },
@@ -1605,8 +1697,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-006"
+                                                           "型號：OG-006",
+                                                           "尺寸：Right 138mm/128mm/95mm/75mm",
+                                                           "尺寸：Left 138mm/128mm/95mm/75mm"
                                                        ],
                                              "group":  "OG-006"
                                          }
@@ -1625,8 +1718,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-007"
+                                                           "型號：OG-007",
+                                                           "尺寸：Right 130mm/90mm",
+                                                           "尺寸：Left 130mm/90mm"
                                                        ],
                                              "group":  "OG-007"
                                          },
@@ -1640,8 +1734,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-007"
+                                                           "型號：OG-007",
+                                                           "尺寸：Right 130mm/90mm",
+                                                           "尺寸：Left 130mm/90mm"
                                                        ],
                                              "group":  "OG-007"
                                          },
@@ -1655,8 +1750,9 @@
                                              "productType":  "GRIP",
                                              "specs":  [
                                                            "分類：GRIP / 握把",
-                                                           "Catalog: GRIP",
-                                                           "型號：OG-007"
+                                                           "型號：OG-007",
+                                                           "尺寸：Right 130mm/90mm",
+                                                           "尺寸：Left 130mm/90mm"
                                                        ],
                                              "group":  "OG-007"
                                          }
@@ -1675,7 +1771,6 @@
                                              "productType":  "CORK ENDS CAP",
                                              "specs":  [
                                                            "分類：CORK ENDS CAP / 軟木尾蓋",
-                                                           "Catalog: CORK ENDS CAP",
                                                            "型號：BCC-001",
                                                            "Any size is possible",
                                                            "Very light"
@@ -1697,7 +1792,6 @@
                                              "productType":  "WOVEN TAPE",
                                              "specs":  [
                                                            "分類：WOVEN TAPE / 編織把帶",
-                                                           "Catalog: WOVEN TAPE",
                                                            "型號：WT-001",
                                                            "Spec: 2000mm*30mm",
                                                            "Weight: 78 gram",
@@ -1719,8 +1813,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-001"
+                                        "型號：OG-001",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-001"
                       },
@@ -1734,8 +1829,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-005"
+                                        "型號：OG-005",
+                                        "尺寸：Right 130mm/90mm",
+                                        "尺寸：Left 130mm/90mm"
                                     ],
                           "group":  "OG-005"
                       },
@@ -1749,8 +1845,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-006"
+                                        "型號：OG-006",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-006"
                       },
@@ -1764,8 +1861,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-007"
+                                        "型號：OG-007",
+                                        "尺寸：Right 130mm/90mm",
+                                        "尺寸：Left 130mm/90mm"
                                     ],
                           "group":  "OG-007"
                       },
@@ -1779,8 +1877,8 @@
                           "productType":  "TAPES",
                           "specs":  [
                                         "分類：TAPES / 手把帶",
-                                        "Catalog: TAPES",
-                                        "型號：BLT-001"
+                                        "型號：BLT-001",
+                                        "尺寸：2000x30mm"
                                     ],
                           "group":  "BLT-001"
                       },
@@ -1794,7 +1892,6 @@
                           "productType":  "END CAPS",
                           "specs":  [
                                         "分類：END CAPS / 尾蓋",
-                                        "Catalog: END CAPS",
                                         "型號：BLC-001"
                                     ],
                           "group":  "BLC-001"
@@ -1809,8 +1906,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-001"
+                                        "型號：OG-001",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-001"
                       },
@@ -1824,8 +1922,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-005"
+                                        "型號：OG-005",
+                                        "尺寸：Right 130mm/90mm",
+                                        "尺寸：Left 130mm/90mm"
                                     ],
                           "group":  "OG-005"
                       },
@@ -1839,8 +1938,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-006"
+                                        "型號：OG-006",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-006"
                       },
@@ -1854,8 +1954,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-007"
+                                        "型號：OG-007",
+                                        "尺寸：Right 130mm/90mm",
+                                        "尺寸：Left 130mm/90mm"
                                     ],
                           "group":  "OG-007"
                       },
@@ -1869,8 +1970,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-001"
+                                        "型號：OG-001",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-001"
                       },
@@ -1884,8 +1986,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-005"
+                                        "型號：OG-005",
+                                        "尺寸：Right 130mm/90mm",
+                                        "尺寸：Left 130mm/90mm"
                                     ],
                           "group":  "OG-005"
                       },
@@ -1899,7 +2002,6 @@
                           "productType":  "END CAPS",
                           "specs":  [
                                         "分類：END CAPS / 尾蓋",
-                                        "Catalog: END CAPS",
                                         "型號：BLC-001"
                                     ],
                           "group":  "BLC-001"
@@ -1914,8 +2016,8 @@
                           "productType":  "TAPES",
                           "specs":  [
                                         "分類：TAPES / 手把帶",
-                                        "Catalog: TAPES",
-                                        "型號：BLT-001"
+                                        "型號：BLT-001",
+                                        "尺寸：2000x30mm"
                                     ],
                           "group":  "BLT-001"
                       },
@@ -1929,8 +2031,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-001"
+                                        "型號：OG-001",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-001"
                       },
@@ -1944,8 +2047,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-001B"
+                                        "型號：OG-001B",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-001"
                       },
@@ -1959,8 +2063,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-001H"
+                                        "型號：OG-001H",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-001"
                       },
@@ -1974,7 +2079,6 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
                                         "型號：OG-002"
                                     ],
                           "group":  "OG-002"
@@ -1989,7 +2093,6 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
                                         "型號：OG-003"
                                     ],
                           "group":  "OG-003"
@@ -2004,7 +2107,6 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
                                         "型號：OG-004"
                                     ],
                           "group":  "OG-004"
@@ -2019,8 +2121,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-005"
+                                        "型號：OG-005",
+                                        "尺寸：Right 130mm/90mm",
+                                        "尺寸：Left 130mm/90mm"
                                     ],
                           "group":  "OG-005"
                       },
@@ -2034,8 +2137,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-006"
+                                        "型號：OG-006",
+                                        "尺寸：Right 138mm/128mm/95mm/75mm",
+                                        "尺寸：Left 138mm/128mm/95mm/75mm"
                                     ],
                           "group":  "OG-006"
                       },
@@ -2049,8 +2153,9 @@
                           "productType":  "GRIP",
                           "specs":  [
                                         "分類：GRIP / 握把",
-                                        "Catalog: GRIP",
-                                        "型號：OG-007"
+                                        "型號：OG-007",
+                                        "尺寸：Right 130mm/90mm",
+                                        "尺寸：Left 130mm/90mm"
                                     ],
                           "group":  "OG-007"
                       },
@@ -2064,7 +2169,6 @@
                           "productType":  "CORK ENDS CAP",
                           "specs":  [
                                         "分類：CORK ENDS CAP / 軟木尾蓋",
-                                        "Catalog: CORK ENDS CAP",
                                         "型號：BCC-001",
                                         "Any size is possible",
                                         "Very light"
@@ -2081,7 +2185,6 @@
                           "productType":  "WOVEN TAPE",
                           "specs":  [
                                         "分類：WOVEN TAPE / 編織把帶",
-                                        "Catalog: WOVEN TAPE",
                                         "型號：WT-001",
                                         "Spec: 2000mm*30mm",
                                         "Weight: 78 gram",
@@ -2117,8 +2220,8 @@
                                              "productType":  "BOTTLE CAGE",
                                              "specs":  [
                                                            "分類：BOTTLE CAGE / 水壺架",
-                                                           "Catalog: BOTTLE CAGE",
-                                                           "型號：BC-14001"
+                                                           "型號：BC-14001",
+                                                           "尺寸：8x8x11cm"
                                                        ],
                                              "group":  "BC-14001"
                                          }
@@ -2137,8 +2240,8 @@
                                              "productType":  "BOTTLE CAGE",
                                              "specs":  [
                                                            "分類：BOTTLE CAGE / 水壺架",
-                                                           "Catalog: BOTTLE CAGE",
-                                                           "型號：BC-15001"
+                                                           "型號：BC-15001",
+                                                           "尺寸：8x8x11cm"
                                                        ],
                                              "group":  "BC-15001"
                                          }
@@ -2157,8 +2260,8 @@
                                              "productType":  "BOTTLE CAGE",
                                              "specs":  [
                                                            "分類：BOTTLE CAGE / 水壺架",
-                                                           "Catalog: BOTTLE CAGE",
-                                                           "型號：BC-15002"
+                                                           "型號：BC-15002",
+                                                           "尺寸：8x8x11cm"
                                                        ],
                                              "group":  "BC-15002"
                                          }
@@ -2176,8 +2279,8 @@
                           "productType":  "BOTTLE CAGE",
                           "specs":  [
                                         "分類：BOTTLE CAGE / 水壺架",
-                                        "Catalog: BOTTLE CAGE",
-                                        "型號：BC-14001"
+                                        "型號：BC-14001",
+                                        "尺寸：8x8x11cm"
                                     ],
                           "group":  "BC-14001"
                       },
@@ -2191,8 +2294,8 @@
                           "productType":  "BOTTLE CAGE",
                           "specs":  [
                                         "分類：BOTTLE CAGE / 水壺架",
-                                        "Catalog: BOTTLE CAGE",
-                                        "型號：BC-15001"
+                                        "型號：BC-15001",
+                                        "尺寸：8x8x11cm"
                                     ],
                           "group":  "BC-15001"
                       },
@@ -2206,8 +2309,8 @@
                           "productType":  "BOTTLE CAGE",
                           "specs":  [
                                         "分類：BOTTLE CAGE / 水壺架",
-                                        "Catalog: BOTTLE CAGE",
-                                        "型號：BC-15002"
+                                        "型號：BC-15002",
+                                        "尺寸：8x8x11cm"
                                     ],
                           "group":  "BC-15002"
                       }
@@ -2222,81 +2325,116 @@
         "seoDescriptionZh":  "自行車後座包與旅行車包 OEM / ODM 製造，適合外銷品牌、戶外通路與客製化採購需求。",
         "seoDescriptionEn":  "Trunk bag and touring bicycle bag OEM / ODM manufacturing for export brands, outdoor distributors, and custom sourcing needs.",
         "url":  "/products/trunk-bag/",
-        "cover":  "/images/products/gallery/product-093-cutout.png",
-        "count":  2,
+        "cover":  "/images/products/gallery/product-092.jpg",
+        "count":  3,
         "grouped":  true,
         "groups":  [
                        {
-                           "title":  "TB-001",
+                           "title":  "MB-16001",
                            "items":  [
                                          {
-                                             "src":  "/images/products/gallery/product-093.jpg",
-                                             "title":  "TRUNK BAG - TB-001",
-                                             "original":  "2016\\TB-001-FW.jpg",
+                                             "src":  "/images/products/gallery/product-092.jpg",
+                                             "title":  "TRUNK BAG - MB-16001",
+                                             "original":  "2016\\MB-16001-DW.jpg",
                                              "width":  1200,
-                                             "height":  645,
-                                             "model":  "TB-001",
+                                             "height":  801,
+                                             "model":  "MB-16001",
                                              "productType":  "TRUNK BAG",
                                              "specs":  [
                                                            "分類：TRUNK BAG / 後座包",
-                                                           "Catalog: TRUNK BAG",
-                                                           "型號：TB-001"
+                                                           "型號：MB-16001",
+                                                           "尺寸：45x31.8x18.8cm"
                                                        ],
-                                             "group":  "TB-001"
+                                             "group":  "MB-16001"
                                          }
                                      ]
                        },
                        {
-                           "title":  "TB-002",
+                           "title":  "BB-001",
                            "items":  [
                                          {
-                                             "src":  "/images/products/gallery/product-094.jpg",
-                                             "title":  "TRUNK BAG - TB-002",
-                                             "original":  "2016\\TB-002-FW.jpg",
+                                             "src":  "/images/products/gallery/product-101.jpg",
+                                             "title":  "TRUNK BAG - BB-001",
+                                             "original":  "alpha-one pic 舊照片\\BB-001.JPG",
                                              "width":  1200,
-                                             "height":  515,
-                                             "model":  "TB-002",
+                                             "height":  797,
+                                             "model":  "BB-001",
                                              "productType":  "TRUNK BAG",
                                              "specs":  [
                                                            "分類：TRUNK BAG / 後座包",
-                                                           "Catalog: TRUNK BAG",
-                                                           "型號：TB-002"
+                                                           "型號：BB-001",
+                                                           "尺寸：35x12.5x29cm"
                                                        ],
-                                             "group":  "TB-002"
+                                             "group":  "BB-001"
+                                         }
+                                     ]
+                       },
+                       {
+                           "title":  "BB-002",
+                           "items":  [
+                                         {
+                                             "src":  "/images/products/gallery/product-102.jpg",
+                                             "title":  "TRUNK BAG - BB-002",
+                                             "original":  "alpha-one pic 舊照片\\BB-002.JPG",
+                                             "width":  1200,
+                                             "height":  797,
+                                             "model":  "BB-002",
+                                             "productType":  "TRUNK BAG",
+                                             "specs":  [
+                                                           "分類：TRUNK BAG / 後座包",
+                                                           "型號：BB-002",
+                                                           "尺寸：33x13x26cm"
+                                                       ],
+                                             "group":  "BB-002"
                                          }
                                      ]
                        }
                    ],
         "items":  [
                       {
-                          "src":  "/images/products/gallery/product-093.jpg",
-                          "title":  "TRUNK BAG - TB-001",
-                          "original":  "2016\\TB-001-FW.jpg",
+                          "src":  "/images/products/gallery/product-092.jpg",
+                          "title":  "TRUNK BAG - MB-16001",
+                          "original":  "2016\\MB-16001-DW.jpg",
                           "width":  1200,
-                          "height":  645,
-                          "model":  "TB-001",
+                          "height":  801,
+                          "model":  "MB-16001",
                           "productType":  "TRUNK BAG",
                           "specs":  [
                                         "分類：TRUNK BAG / 後座包",
-                                        "Catalog: TRUNK BAG",
-                                        "型號：TB-001"
+                                        "型號：MB-16001",
+                                        "尺寸：45x31.8x18.8cm"
                                     ],
-                          "group":  "TB-001"
+                          "group":  "MB-16001"
                       },
                       {
-                          "src":  "/images/products/gallery/product-094.jpg",
-                          "title":  "TRUNK BAG - TB-002",
-                          "original":  "2016\\TB-002-FW.jpg",
+                          "src":  "/images/products/gallery/product-101.jpg",
+                          "title":  "TRUNK BAG - BB-001",
+                          "original":  "alpha-one pic 舊照片\\BB-001.JPG",
                           "width":  1200,
-                          "height":  515,
-                          "model":  "TB-002",
+                          "height":  797,
+                          "model":  "BB-001",
                           "productType":  "TRUNK BAG",
                           "specs":  [
                                         "分類：TRUNK BAG / 後座包",
-                                        "Catalog: TRUNK BAG",
-                                        "型號：TB-002"
+                                        "型號：BB-001",
+                                        "尺寸：35x12.5x29cm"
                                     ],
-                          "group":  "TB-002"
+                          "group":  "BB-001"
+                      },
+                      {
+                          "src":  "/images/products/gallery/product-102.jpg",
+                          "title":  "TRUNK BAG - BB-002",
+                          "original":  "alpha-one pic 舊照片\\BB-002.JPG",
+                          "width":  1200,
+                          "height":  797,
+                          "model":  "BB-002",
+                          "productType":  "TRUNK BAG",
+                          "specs":  [
+                                        "分類：TRUNK BAG / 後座包",
+                                        "型號：BB-002",
+                                        "尺寸：33x13x26cm"
+                                    ],
+                          "group":  "BB-002"
                       }
                   ]
     },
@@ -2326,8 +2464,8 @@
                                              "productType":  "LEG STRAP",
                                              "specs":  [
                                                            "分類：LEG STRAP / 腿束帶",
-                                                           "Catalog: LEG STRAP",
-                                                           "型號：LS-15001"
+                                                           "型號：LS-15001",
+                                                           "尺寸：34x3cm"
                                                        ],
                                              "group":  "LS-15001"
                                          }
@@ -2345,8 +2483,8 @@
                           "productType":  "LEG STRAP",
                           "specs":  [
                                         "分類：LEG STRAP / 腿束帶",
-                                        "Catalog: LEG STRAP",
-                                        "型號：LS-15001"
+                                        "型號：LS-15001",
+                                        "尺寸：34x3cm"
                                     ],
                           "group":  "LS-15001"
                       }

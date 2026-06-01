@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>首頁 on 暢鴻實業</title>
-    <link>https://changhoung.com.tw/zh/</link>
+    <link>http://localhost:1313/zh/</link>
     <description>Recent content in 首頁 on 暢鴻實業</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <atom:link href="https://changhoung.com.tw/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BOTTLE CAGE / 水壺架</title>
-      <link>https://changhoung.com.tw/zh/products/bottle-cage/</link>
+      <link>http://localhost:1313/zh/products/bottle-cage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/products/bottle-cage/</guid>
+      <guid>http://localhost:1313/zh/products/bottle-cage/</guid>
       <description></description>
     </item>
     <item>
       <title>GRIP / BAR TAPE / 握把與纏帶</title>
-      <link>https://changhoung.com.tw/zh/products/grip-bar-tape/</link>
+      <link>http://localhost:1313/zh/products/grip-bar-tape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/products/grip-bar-tape/</guid>
+      <guid>http://localhost:1313/zh/products/grip-bar-tape/</guid>
       <description></description>
     </item>
     <item>
       <title>HANDLE BAR BAG / 車把包</title>
-      <link>https://changhoung.com.tw/zh/products/handle-bar-bag/</link>
+      <link>http://localhost:1313/zh/products/handle-bar-bag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/products/handle-bar-bag/</guid>
+      <guid>http://localhost:1313/zh/products/handle-bar-bag/</guid>
       <description></description>
     </item>
     <item>
       <title>LEG STRAP / 腿束帶</title>
-      <link>https://changhoung.com.tw/zh/products/leg-strap/</link>
+      <link>http://localhost:1313/zh/products/leg-strap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/products/leg-strap/</guid>
+      <guid>http://localhost:1313/zh/products/leg-strap/</guid>
       <description></description>
     </item>
     <item>
       <title>SADDLE BAG / 座墊包</title>
-      <link>https://changhoung.com.tw/zh/products/saddle-bag/</link>
+      <link>http://localhost:1313/zh/products/saddle-bag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/products/saddle-bag/</guid>
+      <guid>http://localhost:1313/zh/products/saddle-bag/</guid>
       <description></description>
     </item>
     <item>
       <title>SADDLES / 自行車座墊</title>
-      <link>https://changhoung.com.tw/zh/products/saddles/</link>
+      <link>http://localhost:1313/zh/products/saddles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/products/saddles/</guid>
+      <guid>http://localhost:1313/zh/products/saddles/</guid>
       <description></description>
     </item>
     <item>
       <title>TRUNK BAG / 後座包</title>
-      <link>https://changhoung.com.tw/zh/products/trunk-bag/</link>
+      <link>http://localhost:1313/zh/products/trunk-bag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/products/trunk-bag/</guid>
+      <guid>http://localhost:1313/zh/products/trunk-bag/</guid>
       <description></description>
     </item>
     <item>
       <title>UPPER TUBE BAG / 上管包</title>
-      <link>https://changhoung.com.tw/zh/products/upper-tube-bag/</link>
+      <link>http://localhost:1313/zh/products/upper-tube-bag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/products/upper-tube-bag/</guid>
+      <guid>http://localhost:1313/zh/products/upper-tube-bag/</guid>
       <description></description>
     </item>
     <item>
       <title>皮革保養</title>
-      <link>https://changhoung.com.tw/zh/leather-care/</link>
+      <link>http://localhost:1313/zh/leather-care/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changhoung.com.tw/zh/leather-care/</guid>
+      <guid>http://localhost:1313/zh/leather-care/</guid>
       <description>天然皮革會隨著使用產生色澤與觸感變化，定期清潔與保養能讓產品維持更好的狀態。</description>
     </item>
   </channel>

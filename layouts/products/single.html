@@ -32,7 +32,13 @@
             {{ with .specs }}
             <span class="product-specs">
               {{ range . }}
-              <em>{{ . }}</em>
+              {{ $spec := . }}
+              {{ if eq site.Language.Lang "en" }}
+                {{ $spec = replaceRE "^尺寸\\s*[：:]\\s*" "Size: " $spec }}
+              {{ else }}
+                {{ $spec = replaceRE "^Size\\s*[：:]\\s*" "尺寸：" $spec }}
+              {{ end }}
+              <em>{{ $spec }}</em>
               {{ end }}
             </span>
             {{ end }}
@@ -56,7 +62,13 @@
         {{ with .specs }}
         <span class="product-specs">
           {{ range . }}
-          <em>{{ . }}</em>
+          {{ $spec := . }}
+          {{ if eq site.Language.Lang "en" }}
+            {{ $spec = replaceRE "^尺寸\\s*[：:]\\s*" "Size: " $spec }}
+          {{ else }}
+            {{ $spec = replaceRE "^Size\\s*[：:]\\s*" "尺寸：" $spec }}
+          {{ end }}
+          <em>{{ $spec }}</em>
           {{ end }}
         </span>
         {{ end }}
