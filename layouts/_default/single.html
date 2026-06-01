@@ -3,7 +3,15 @@
   <a class="back-link" href="{{ "/" | relLangURL }}">{{ cond (eq site.Language.Lang "zh") "回首頁" "Back to home" }}</a>
   <div class="content-shell">
     <div class="section-kicker">{{ .Params.kicker }}</div>
-    <h1>{{ .Title }}</h1>
+    <h1>
+      {{- with .Params.headingLines -}}
+        {{- range . -}}
+          <span class="content-title-line">{{ . }}</span>
+        {{- end -}}
+      {{- else -}}
+        {{ .Title }}
+      {{- end -}}
+    </h1>
     {{ with .Params.description }}
     <p class="content-lead">{{ . }}</p>
     {{ end }}

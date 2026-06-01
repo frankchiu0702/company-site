@@ -1,11 +1,14 @@
 <header class="site-header">
   <div class="header-inner">
     <a class="brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
-      <span class="brand-mark">CH</span>
-      <span class="brand-name">{{ i18n "brand_name" }}</span>
+      <span class="brand-mark">
+        <img src="/images/brand/chang-houng-logo.png" alt="CHANG HOUNG logo" width="256" height="256">
+      </span>
+      <span class="brand-name">{{ i18n "brand_short_name" }}</span>
     </a>
 
     <nav class="site-nav" aria-label="Primary navigation">
+      <a href="{{ cond (eq site.Language.Lang "zh") "/about/" ("about/" | relLangURL) }}">{{ cond (eq site.Language.Lang "zh") "關於" "About" }}</a>
       <a href="{{ "/" | relLangURL }}#products">{{ i18n "nav_products" }}</a>
       <a href="{{ "/" | relLangURL }}#capabilities">{{ i18n "nav_capabilities" }}</a>
       <a href="{{ "leather-care/" | relLangURL }}">{{ i18n "nav_leather_care" }}</a>

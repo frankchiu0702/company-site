@@ -1,5 +1,5 @@
 baseURL = "https://changhoung.com.tw/"
-title = "暢鴻實業"
+title = "暢鴻實業股份有限公司 | CHANG HOUNG LEATHER ENTERPRISE CO., LTD."
 theme = "PaperMod"
 
 enableRobotsTXT = true
@@ -12,18 +12,18 @@ disableKinds = ["taxonomy", "term"]
     contentDir = "content/zh"
     languageCode = "zh-TW"
     languageName = "中文"
-    title = "暢鴻實業"
+    title = "暢鴻實業股份有限公司 | CHANG HOUNG LEATHER ENTERPRISE CO., LTD."
     weight = 1
 
   [languages.en]
     contentDir = "content/en"
     languageCode = "en-US"
     languageName = "English"
-    title = "CHANG HOUNG LEATHER ENTERPRISE CO., LTD"
+    title = "CHANG HOUNG LEATHER ENTERPRISE CO., LTD. | Taiwan Bicycle Leather Accessories Manufacturer"
     weight = 2
 
 [params]
-  author = "CHANG HOUNG LEATHER ENTERPRISE CO., LTD"
+  author = "CHANG HOUNG LEATHER ENTERPRISE CO., LTD."
   description = "OEM and ODM bicycle accessories manufacturer for export markets."
   disableThemeToggle = true
   ShowBreadCrumbs = false

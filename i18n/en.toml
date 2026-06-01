@@ -1,5 +1,7 @@
 [brand_name]
-other = "CHANG HOUNG LEATHER ENTERPRISE CO., LTD"
+other = "CHANG HOUNG LEATHER ENTERPRISE CO., LTD."
+[brand_short_name]
+other = "CHANG HOUNG"
 [nav_products]
 other = "Products"
 [nav_capabilities]

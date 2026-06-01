@@ -1,4 +1,6 @@
 [brand_name]
+other = "暢鴻實業股份有限公司"
+[brand_short_name]
 other = "暢鴻實業"
 [nav_products]
 other = "產品"
@@ -13,7 +15,7 @@ other = "Taiwan OEM / ODM Bicycle Accessories"
 [hero_title]
 other = "為外銷市場打造可靠的自行車配件"
 [hero_lead]
-other = "暢鴻實業專注皮革握把、座墊、車包與客製化零件，協助品牌商與通路客戶穩定開發、製造與交付。"
+other = "台灣自行車皮件、自行車袋與自行車配件製造商，協助品牌商與通路客戶穩定開發、製造與交付。"
 [btn_quote]
 other = "索取報價"
 [btn_catalog]
