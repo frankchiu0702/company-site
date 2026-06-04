@@ -2,160 +2,160 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://changhoung.com.tw/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/about/"
+                href="https://changhoung.com.tw/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/about/"
+                href="https://changhoung.com.tw/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/company/</loc>
+    <loc>https://changhoung.com.tw/en/company/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/company/"
+                href="https://changhoung.com.tw/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/company/"
+                href="https://changhoung.com.tw/en/company/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/bottle-cage/</loc>
+    <loc>https://changhoung.com.tw/en/products/bottle-cage/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/bottle-cage/"
+                href="https://changhoung.com.tw/zh/products/bottle-cage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/bottle-cage/"
+                href="https://changhoung.com.tw/en/products/bottle-cage/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/grip-bar-tape/</loc>
+    <loc>https://changhoung.com.tw/en/products/grip-bar-tape/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/grip-bar-tape/"
+                href="https://changhoung.com.tw/zh/products/grip-bar-tape/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/grip-bar-tape/"
+                href="https://changhoung.com.tw/en/products/grip-bar-tape/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/handle-bar-bag/</loc>
+    <loc>https://changhoung.com.tw/en/products/handle-bar-bag/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/handle-bar-bag/"
+                href="https://changhoung.com.tw/zh/products/handle-bar-bag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/handle-bar-bag/"
+                href="https://changhoung.com.tw/en/products/handle-bar-bag/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://changhoung.com.tw/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/"
+                href="https://changhoung.com.tw/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://changhoung.com.tw/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/leather-care/</loc>
+    <loc>https://changhoung.com.tw/en/leather-care/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/leather-care/"
+                href="https://changhoung.com.tw/zh/leather-care/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/leather-care/"
+                href="https://changhoung.com.tw/en/leather-care/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/leg-strap/</loc>
+    <loc>https://changhoung.com.tw/en/products/leg-strap/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/leg-strap/"
+                href="https://changhoung.com.tw/zh/products/leg-strap/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/leg-strap/"
+                href="https://changhoung.com.tw/en/products/leg-strap/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/</loc>
+    <loc>https://changhoung.com.tw/en/products/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/"
+                href="https://changhoung.com.tw/zh/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/"
+                href="https://changhoung.com.tw/en/products/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/saddle-bag/</loc>
+    <loc>https://changhoung.com.tw/en/products/saddle-bag/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/saddle-bag/"
+                href="https://changhoung.com.tw/zh/products/saddle-bag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/saddle-bag/"
+                href="https://changhoung.com.tw/en/products/saddle-bag/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/saddles/</loc>
+    <loc>https://changhoung.com.tw/en/products/saddles/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/saddles/"
+                href="https://changhoung.com.tw/zh/products/saddles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/saddles/"
+                href="https://changhoung.com.tw/en/products/saddles/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/trunk-bag/</loc>
+    <loc>https://changhoung.com.tw/en/products/trunk-bag/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/trunk-bag/"
+                href="https://changhoung.com.tw/zh/products/trunk-bag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/trunk-bag/"
+                href="https://changhoung.com.tw/en/products/trunk-bag/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/products/upper-tube-bag/</loc>
+    <loc>https://changhoung.com.tw/en/products/upper-tube-bag/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/products/upper-tube-bag/"
+                href="https://changhoung.com.tw/zh/products/upper-tube-bag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/products/upper-tube-bag/"
+                href="https://changhoung.com.tw/en/products/upper-tube-bag/"
                 />
   </url>
 </urlset>
